@@ -1,0 +1,358 @@
+<---------- Introduction to git nd github ------------>
+1. TERMINOLOGY :-
+
+1.a REPOSITORY : A container that hold all the code ( may include file, folder, and even other repositories).
+Command to see the state of your repository : ~ git status.
+~ git rm --cached <file>
+
+-> Change username by ~ git config --global user.name "username", and email by ~ git config --global user.email "mail".
+And check the config by ~ git config --list.
+
+-> Create a new repo. ~ git status
+~ git init
+
+-> gitignore
+Gitignore is a file that tells git which files and folders to ignore. It is a way to prevent git from tracking certain files or folders. You can create a gitignore file and add list of files and folders to ignore by using the following command:
+
+Example:
+.gitignore may have -node_modules, .env, .vscode.
+Now, when you run the git status command, it will not show the node_modules and .vscode folders as being tracked by git.
+
+
+1.b COMMIT : Commit is a way to save your change to your repository. When you commit your changes, you are telling git to save them in a permanent way. This way, you can always go back to that point in time and see what you changed.
+
+-> Atomic commit : Keep commit centric to one feature, component oj fix. (keep committing micros). Message tone is generally Present tense and Imperative.(eg - add nav bar to page).
+
+-> FLOW : Git init -> Working directory -> git add -> Staging area -> git commit -> Repository -> git push -> Github.
+
+-> To add the message with the commit Command : 
+~ git commit -m "commit message"
+~ git status
+
+
+1.c STAGE : Stage is a way to tell git to track a particular file or folder. You can use the following command to stage a file.
+Commands : ADD A FILE :-
+~ git init
+~ git add <file> <file2>
+~ git status
+
+REMOVE A FILE :-
+~ git rm --cached <file>
+
+
+1.d LOGS : Shows the history of your repository. Show all the commits made in the repository.
+-> Use ~ git --oneline, to show only the commit message. This will make the output more compact and easier to read.
+
+
+
+2. Branches 
+Branches are a way to work on different version of project at same time. They allo you to create a seperate line of development that can be worked independently of the main branch.
+
+
+2.a Head in git :- HEAD is the pointer to the current branch that you are Working on.
+default branch is called main.
+
+
+2.b Creating a new branch :- Command to create a new branch :
+
+~ git branch - This command lists all the branches in the current repository.
+~ git branch secondary-branch - This command creates a new branch called secondary-branch.
+~ git switch secondary-branch - This command switches to the secondary-branch branch.
+~ git log - This command shows the commit history for the current branch.
+~ git switch main - This command switches to the main branch.
+~ git switch -c dark-mode - This command creates a new branch called dark-mode. the -c flag is used to create a new branch.
+~ git checkout orange-mode - This command switches to the orange-mode branch.
+Commit before switching to a branch
+Go to .git folder and checkout to the HEAD file
+
+
+2.c Merging branches : Merging is about changing from one branch to another. It is of two types:-
+
+i. Fast forward merges (If branches have not diverted) - The branch you are worokng on is ahead and there is no conflict.
+
+Some points to note:
+~ git checkout main - This command switches to the main branch.
+~ git merge secondary-branch - This command merges the secondary-branch branch into the main branch.
+
+ii. 3-Way merges (if branches have diverted)  - In this type of merge, the main branch has additional commits that are not present in the secondary branch. This is not a fast-forward merge. Here git looks at 3 different commits [common ancestor of branches + tips of each branch] and combines the changes into one merge commit.
+commnds -
+~ git checkout main
+~ git merge secondary-branch
+
+The difference is resolving the conflicts. In a fast-forward merge, there are no conflicts. But in 2-way merge, there are conflicts, and there are no shortcuts to resolve them. They have to be manually resolve the conflicts
+
+
+2.d Some commands :-
+~ git branch -m <old-branch-name> <new-branch-name> :- Rename a branch.
+~ git branch -d <branch-name> :- Delete a branch.
+~ git checkout <branch-name> :- Go to that branch.
+~ git branch :- List all branch.
+
+
+
+3. Diff, Stash and Tags
+
+3.a Git Diff :- Diff is  an informative command that is use to compare difference between two file, commits or branches. Git consider the changed version of  one file as two separate files.
+
+Notation to understand and ho to read a Dff output
+
+1. a/ – the original file (before changes)
+2. b/ – the updated file (after changes)
+3. --- – marks the beginning of the original file
+4. +++ – marks the beginning of the updated file
+5. @@ – shows the line numbers and position of changes
+File A and file B can be different version of same file. Git will show the changes and the line number where the change has occurred along with a little preview of the page.
+
+Some commands :-
+~ git diff - Shows the unstaged changes in your working directory compared to the staging area. This command alone will not show you the changes made in the file A and file B, you need to provide options to show the changes.
+~ git diff --staged - Shows the changes between your last commit and the staging area.
+~ git diff <branch-name-one> <branch-name-two> - Compares the difference between two branches. Another way of doing the same is ~ git diff branch-name-one..branch-name-two.
+~ git diff <commit-hash-one> <commit-hash-two> - Compares the difference between two commits.
+
+
+3.b Git Stash 
+Stash is a way to save changes in a temporary location. It’s useful when switching branches without losing work.
+Some commands :-
+~ git stash save "work in progress on X feature" - Naming the stash.
+~ git stash list - View the list of stashes.
+~ git stash apply or ~ git stash apply stash@{0} - apply the specific stash. Here, stash@{0} is the name of the stash(can be viewed via git list).
+~ git stash pop - Apply and drop the stash.
+~ git stash drop - Drop the stash directly.
+~ git stash apply stash@{0} <branch-name> - Apply the stash to particular branch.
+~ git stash clear - Clear the stash.
+
+
+3.c Git Tags
+Tags are a way to mark a specific point in a repository. They are used to remember a specific version of your code or when refering to a specific commit. Tags are like sticky notes that can attach to commits.
+Some commands :-
+~ git tag <tag-name> -Create a tag.w
+~ git tag -a <tag-name> -m "Release 1.0" - Create an annotated tag with a specific message.
+~ git tag - List all tags.
+~ git tag <tag-name> <commit-hash> - Tag a specific commit.
+~ git push origin <tag-name> - Push tags to a remote ~ repository.
+~ git tag -d <tag-name> - Delete a tag.
+~ git push origin :<tag-name> - Delete a tag on a remote repository.
+
+
+
+4. Managing Git History :-
+Merge commits
+A merge commit is a commit that combines two or more commits into one. It is created when you merge two or more branches into a single branch. The merge commit contains all the changes from the original branches, and it is used to keep the project history clean and easy to understand.
+
+4.a Rebase in git
+Git rebase is a powerful Git feature used to change the base of a branch. It effectively allows to move a branch to a new starting point, usually a different commit, by “replaying” the commits from the original base onto the new base. This can be useful for keeping a cleaner, linear project history.
+It allows you to keep the commit history cleaner and easier to understand. It also allows to make changes to the code without affecting the original branch.
+Present on the branch you want to rebase :-
+~ git checkout feature-branch
+~ git rebase main
+
+Resolve any conflicts - Any conflicts need to be resolved manually (or via merge tools in VS code).
+git add <resolved-files>
+git rebase --continue 
+Try to avoid —force option when using rebase. It can cause issues with the project history.
+
+
+4.b Git reflog - Git reflog is a command that shows the history of commits. It allows to see the changes that have made to your repository over time. This can be useful for debugging and understanding the history of project.
+
+Some commands :-
+~ git reflog - Show the history of your commits.
+~ git reflog <commit-hash> - Find a specific commit.
+~ git reflog <commit-hash>
+~ git reset --hard <commit-hash> - If you accidentally deleted a branch or made changes that are no longer visible in the commit history, you can often recover them using the reflog. First, find the reference to the commit where the branch or changes existed, and then reset your branch to that reference.
+
+~ git reflog <commit-hash>
+~ git reset --hard <commit-hash>
+
+or you can use HEAD@{n} to reset to the nth commit before the one you want to reset to.
+
+~ git reflog <commit-hash>
+~ git reset --hard HEAD@{1}
+
+<---------------------- Theory ends ------------------------------>
+
+
+-> Commands used and their functionality :-
+# 1.TERMINOLOGY
+# 1.a REPOSITORY
+# Check the current state of the repository
+git status
+
+# Initialize a new git repository
+git init
+
+# Remove a file from staging (but keep it locally)
+git rm --cached <file>
+
+# Configure global username
+git config --global user.name "username"
+
+# Configure global email
+git config --global user.email "mail"
+
+# Check all git configurations
+git config --list
+
+
+# 1.b COMMIT
+# Add files to staging area
+git add <file>
+git add <file1> <file2>
+
+# Commit staged changes with a message
+git commit -m "commit message"
+
+# View current repo status
+git status
+
+
+# 1.c STAGING AREA
+# Stage all files
+git add .
+
+# Remove file from staging area
+git rm --cached <file>
+
+
+# 1.d LOGS
+# View full commit history
+git log
+
+# View compact commit history (one line per commit)
+git log --oneline
+
+
+
+# 2. BRANCHES
+# 2.b CREATING & SWITCHING BRANCHES
+# List all branches
+git branch
+
+# Create a new branch
+git branch secondary-branch
+
+# Switch to a branch
+git switch secondary-branch
+
+# Switch back to main branch
+git switch main
+
+# Create and switch to a new branch
+git switch -c dark-mode
+
+# Switch branch using checkout (older way)
+git checkout orange-mode
+
+# View commit history of current branch
+git log
+
+
+# 2.c MERGING BRANCHES
+# Switch to main branch before merging
+git checkout main
+
+# Merge another branch into main
+git merge secondary-branch
+
+
+# 2.d BRANCH COMMANDS
+# Rename a branch
+git branch -m <old-branch-name> <new-branch-name>
+
+# Delete a branch
+git branch -d <branch-name>
+
+# List all branches
+git branch
+
+# Switch to a branch
+git checkout <branch-name>
+
+
+
+# 3. DIFF, STASH, TAGS
+# 3.a GIT DIFF
+# Show unstaged changes
+git diff
+
+# Show staged changes
+git diff --staged
+
+# Compare two branches
+git diff branch-one branch-two
+git diff branch-one..branch-two
+
+# Compare two commits
+git diff <commit-hash-one> <commit-hash-two>
+
+
+# 3.b GIT STASH
+# Save changes to stash with message
+git stash save "work in progress on X feature"
+
+# List all stashes
+git stash list
+
+# Apply the latest stash
+git stash apply
+
+# Apply a specific stash
+git stash apply stash@{0}
+
+# Apply and remove stash
+git stash pop
+
+# Drop a specific stash
+git stash drop stash@{0}
+
+# Apply stash to a specific branch
+git stash apply stash@{0} <branch-name>
+
+# Clear all stashes
+git stash clear
+
+
+# 3.c GIT TAGS
+# Create a lightweight tag
+git tag <tag-name>
+
+# Create an annotated tag
+git tag -a <tag-name> -m "Release 1.0"
+
+# List all tags
+git tag
+
+# Tag a specific commit
+git tag <tag-name> <commit-hash>
+
+# Push a tag to remote repository
+git push origin <tag-name>
+
+# Delete a local tag
+git tag -d <tag-name>
+
+# Delete a remote tag
+git push origin :<tag-name>
+
+
+
+# 4. MANAGING GIT HISTORY
+# 4.a REBASE
+# Switch to feature branch
+git checkout feature-branch
+
+# Rebase feature branch onto main
+git rebase main
+
+# Resolve conflicts, then:
+git add <resolved-files>
+git rebase --continue
+
+# 4.b GIT REFLOG
+# Show reference log
+git reflog
+
+# Reset to a specific commit using hash
+git reset --hard <commit-hash>
+
+# Reset using reflog reference
+git reset --hard HEAD@{1}

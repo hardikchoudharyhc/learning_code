@@ -1,0 +1,8 @@
+The source and resources where I learned about git and github
+YT :- https://www.youtube.com/watch?v=q8EevlEpQ2A
+Docs :- https://docs.chaicode.com/youtube/chai-aur-git/welcome/
+
+Briefing :-
+This is the video tutorial by Chai aur Code YT channel, where he has explained concepts of git and github in depth, covering basic terminology, behind the scenes, branchings, diff, stash and tags. To get the basic knowledge and understandings of git and github, it is one of the great resource available. 
+And followed by the Docs content, which provide theory of the same YT resource.
+I also have made notes in gitNotes.txt file, covering all the topics and commands.
