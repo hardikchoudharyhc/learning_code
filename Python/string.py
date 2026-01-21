@@ -16,3 +16,4 @@ first, last = name2.split(" ")
 print("First name is : -",first,"\nLast name is :-",last)
 
 # Interactive mode - Type python in terminal to use python on the ternimal, line by line execution.
+# Many dunctions to discover.
