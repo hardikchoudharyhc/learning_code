@@ -10,7 +10,7 @@ print("Greetings!") # All input are strings.
 # print("Hello, " + name) Can write like this also.
 # print(f"hello, {name}") formatted string.
 
-# Parameters in print function => (*objects, sep = " ", end = "\n"), having n number of objects as input and they are seperated by a "," and the value in sep parameter (default is " ") is given between them. At the end of print, the value in end parameter ( default is \n) is given.
+# Parameters in print function => (*objects, sep = " ", end = "\n"), having n number of objects as input and they are separated by a "," and the value in sep parameter (default is " ") is given between them. At the end of print, the value in end parameter ( default is \n) is given.
 print("see", sep = "..", end = "!!!!")
 print("this")
 
@@ -74,7 +74,10 @@ match name:
     case "efgh":
         print("efgh")
     case _:
-        print("This is default statment")
+        print("This is default statement")
+
+# list_name.append(item) - append the item a the end of the list.
+
 
 # ---- Loops ----
 # i = 0
@@ -112,7 +115,7 @@ students = [
 # for student in students:
 #     print(student["name"], student["place"], student["things"], sep=":")
 
-# ----Exception handelling ----
+# ---- Exception handling ----
 # try :
 #     x = int(input("Enter x:"))
 #     # print(f"x is {x}") Formatted output.
