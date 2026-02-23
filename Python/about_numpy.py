@@ -14,7 +14,7 @@ Python vs Numpy
 import numpy as np
 
 numpy_array = np.array([1,2,3,4,5]) # Conversion of a list into array
-Array2d = np.array([[3,4,5],
+Array2d = np.array([[3,4,5], # Size of both the rows and cols should be same in 2d array.
                    [2,3,4]])
 # print(Array2d)
 
