@@ -1,0 +1,1061 @@
+Name,Rating,Company_type,Reviews,Salaries,Cities
+TCS,3.3,IT Services & Consulting,1.1L Reviews,9.8L Salaries,Bengaluru
+Accenture,3.7,IT Services & Consulting,71.7k Reviews,6.5L Salaries,Bengaluru
+Wipro,3.6,IT Services & Consulting,63.8k Reviews,4.8L Salaries,Hyderabad
+Cognizant,3.6,IT Services & Consulting,60.1k Reviews,6L Salaries,Hyderabad
+Capgemini,3.7,IT Services & Consulting,51.8k Reviews,4.8L Salaries,Bengaluru
+HDFC Bank,3.8,Banking,51k Reviews,1.5L Salaries,Mumbai
+Infosys,3.5,IT Services & Consulting,47.6k Reviews,5.2L Salaries,Bengaluru
+ICICI Bank,4.0,Banking,45.2k Reviews,1.5L Salaries,Mumbai
+HCLTech,3.4,IT Services & Consulting,44.8k Reviews,3.8L Salaries,Chennai
+Tech Mahindra,3.4,IT Services & Consulting,42.5k Reviews,2.8L Salaries,Hyderabad
+Genpact,3.6,IT Services & Consulting,41.1k Reviews,2.3L Salaries,Hyderabad
+Teleperformance,3.8,BPO,37k Reviews,96.1k Salaries,Mumbai
+Jio,4.4,Telecom,33.1k Reviews,62.5k Salaries,Mumbai
+Axis Bank,3.6,Banking,32.5k Reviews,1L Salaries,Mumbai
+Concentrix Corporation,3.6,BPO,31.5k Reviews,1.3L Salaries,Bengaluru
+Amazon,3.9,Internet,30.9k Reviews,1.5L Salaries,Bengaluru
+iEnergizer,4.6,BPO,27.2k Reviews,24.1k Salaries,Noida
+Reliance Retail,3.9,Retail,27.1k Reviews,76.4k Salaries,Mumbai
+LTIMindtree,3.6,IT Services & Consulting,26k Reviews,1.9L Salaries,Bengaluru
+IBM,3.9,IT Services & Consulting,25.3k Reviews,2.1L Salaries,Bengaluru
+HDB Financial Services,3.9,NBFC,25.2k Reviews,49.9k Salaries,Mumbai
+Larsen & Toubro Limited,3.9,Engineering & Construction,23.4k Reviews,74.7k Salaries,Chennai
+Deloitte,3.7,Management Consulting,22.5k Reviews,2.5L Salaries,Hyderabad
+Kotak Mahindra Bank,3.6,Banking,22k Reviews,86.9k Salaries,Mumbai
+Reliance Industries,4.0,Oil & Gas,19.9k Reviews,73k Salaries,Jamnagar
+Vodafone Idea,3.9,Telecom,17.4k Reviews,49.8k Salaries,Pune
+Bharti Airtel,3.8,Telecom,16.9k Reviews,49.2k Salaries,Gurugram
+BYJU'S,3.2,EdTech,16.4k Reviews,54.6k Salaries,Bengaluru
+WNS,3.3,IT Services & Consulting,14.9k Reviews,69k Salaries,Pune
+IDFC FIRST Bank,3.9,Banking,14.1k Reviews,49.4k Salaries,Mumbai
+Ernst & Young,3.4,Management Consulting,14.1k Reviews,1.4L Salaries,Bengaluru
+Tata Motors,4.1,Automobile,14k Reviews,42.6k Salaries,Pune
+IndusInd Bank,3.4,Banking,13.9k Reviews,52.3k Salaries,Mumbai
+AU Small Finance Bank,3.9,Banking,13.9k Reviews,28.7k Salaries,Jaipur
+Bajaj Finserv,4.0,NBFC,12.7k Reviews,30.2k Salaries,Pune
+Flipkart,3.9,Internet,12.7k Reviews,54.5k Salaries,Bengaluru
+Muthoot FinCorp,4.5,NBFC,12.5k Reviews,9.1k Salaries,Bengaluru
+PwC,3.3,Management Consulting,12.1k Reviews,1.2L Salaries,Bengaluru
+Mahindra & Mahindra,4.0,Automobile,11.8k Reviews,39.9k Salaries,Pune
+Infosys BPM,3.5,BPO,11.8k Reviews,73.3k Salaries,Bengaluru
+DXC Technology,3.6,IT Services & Consulting,11.8k Reviews,73k Salaries,Bengaluru
+HDFC Life,3.9,Insurance,11.8k Reviews,32.6k Salaries,Mumbai
+Bandhan Bank,3.7,Banking,10.8k Reviews,24.8k Salaries,Kolkata
+Digitide Solutions,3.5,IT Services & Consulting,10.2k Reviews,26.2k Salaries,Hyderabad
+Mphasis,3.3,IT Services & Consulting,10.1k Reviews,73.4k Salaries,Bengaluru
+Yes Bank,3.6,Banking,10k Reviews,43.1k Salaries,Mumbai
+Tata Steel,4.0,Iron & Steel,9.8k Reviews,34k Salaries,Jamshedpur
+Quess,3.8,Recruitment,9.5k Reviews,30.9k Salaries,Bengaluru
+Maruti Suzuki,4.2,Automobile,9.4k Reviews,28.4k Salaries,Gurugram
+Asian Paints,3.9,Chemicals,9.4k Reviews,25.6k Salaries,Mumbai
+Startek,3.1,BPO,9.3k Reviews,24.3k Salaries,Bengaluru
+UltraTech Cement,4.1,Building Material,9.2k Reviews,23.7k Salaries,Mumbai
+Paytm,3.2,FinTech,9.2k Reviews,34.1k Salaries,Noida
+Shriram Finance,4.0,NBFC,9k Reviews,15k Salaries,Chennai
+Bajaj Finance,3.9,NBFC,9k Reviews,22.6k Salaries,Pune
+Sutherland Global Services,3.4,BPO,8.8k Reviews,34.9k Salaries,Chennai
+Equitas Small Finance Bank,4.4,Banking,8.8k Reviews,13.4k Salaries,Chennai
+Cipla,4.1,Pharma,8.4k Reviews,26.1k Salaries,Mumbai
+EXL Service,3.6,Analytics & KPO,8.4k Reviews,44.2k Salaries,Noida
+Wells Fargo,3.7,Financial Services,8.4k Reviews,55.8k Salaries,Bengaluru
+Ericsson,3.9,Telecom,8.3k Reviews,42.3k Salaries,Noida
+Samsung,3.9,Consumer Electronics & Appliances,8.3k Reviews,26.5k Salaries,Noida
+Dr. Reddy's,4.0,Pharma,8.1k Reviews,26.1k Salaries,Hyderabad
+Optum Global Solutions,4.0,IT Services & Consulting,7.7k Reviews,48.7k Salaries,Hyderabad
+Delhivery,3.8,Logistics,7.7k Reviews,21.1k Salaries,Gurugram
+JPMorgan Chase & Co.,3.8,Financial Services,7.7k Reviews,86.2k Salaries,Bengaluru
+ICICI Prudential Life Insurance,3.9,Insurance,7.6k Reviews,23.1k Salaries,Mumbai
+JSW Steel,3.9,Iron & Steel,7.6k Reviews,31k Salaries,Ballari
+HGS,3.7,BPO,7.5k Reviews,20.9k Salaries,Bengaluru
+Jana Small Finance Bank,3.8,Banking,7.5k Reviews,14k Salaries,Bengaluru
+Hexaware Technologies,3.4,IT Services & Consulting,7.5k Reviews,53.5k Salaries,Chennai
+Ujjivan Small Finance Bank,4.0,Banking,7.5k Reviews,12.9k Salaries,Bengaluru
+Sun Pharmaceutical Industries,4.1,Pharma,7.5k Reviews,23.5k Salaries,Vadodara
+Amazon Development Centre India,3.8,Internet,7.4k Reviews,38.5k Salaries,Hyderabad
+Lupin,4.1,Pharma,7.3k Reviews,22.6k Salaries,Pune
+Ekart Logistics,3.9,Logistics,7.2k Reviews,16k Salaries,Bengaluru
+L&T Construction,4.0,Engineering & Construction,7.2k Reviews,19.2k Salaries,Chennai
+Zydus Lifesciences,3.9,Pharma,7.2k Reviews,20k Salaries,Ahmedabad
+Hindustan Unilever,4.2,FMCG,7.1k Reviews,20k Salaries,Mumbai
+KPMG India,3.4,Management Consulting,7.1k Reviews,65.3k Salaries,Bengaluru
+ITC,3.9,FMCG,7k Reviews,24.6k Salaries,Bengaluru
+Axis Max Life Insurance,4.0,Insurance,7k Reviews,20.2k Salaries,New Delhi
+Megha Engineering & Infrastructures,3.9,Engineering & Construction,6.8k Reviews,18.6k Salaries,Hyderabad
+Tata Projects,4.2,Engineering & Construction,6.7k Reviews,22.3k Salaries,Mumbai
+Coforge,3.3,IT Services & Consulting,6.6k Reviews,49.1k Salaries,Noida
+Bajaj Life Insurance,3.8,Insurance,6.5k Reviews,17.1k Salaries,Pune
+L&T Technology Services,3.1,IT Services & Consulting,6.4k Reviews,42.8k Salaries,Bengaluru
+FIS,3.8,FinTech,6.4k Reviews,38.6k Salaries,Pune
+Cholamandalam Investment & Finance,3.8,Financial Services,6.4k Reviews,12.5k Salaries,Chennai
+Oracle,3.5,Software Product,6.3k Reviews,62.9k Salaries,Bengaluru
+IIFL Finance,4.0,NBFC,6.3k Reviews,14.2k Salaries,Mumbai
+Omega Healthcare,3.8,BPO,6.3k Reviews,26.5k Salaries,Chennai
+Muthoot Finance,3.7,NBFC,6.2k Reviews,13k Salaries,Bengaluru
+Indian Army,4.7,Defence & Aerospace,6.2k Reviews,9.6k Salaries,New Delhi
+JLL,4.1,Real Estate,6.2k Reviews,24.3k Salaries,Gurugram
+eClerx,3.1,IT Services & Consulting,6.1k Reviews,32.1k Salaries,Pune
+HCL Group,3.5,IT Services & Consulting,6.1k Reviews,39.7k Salaries,Chennai
+Virtusa Consulting Services,3.7,IT Services & Consulting,6k Reviews,56.5k Salaries,Hyderabad
+DMart,3.9,Retail,6k Reviews,18.3k Salaries,Mumbai
+Piramal Finance,4.2,NBFC,6k Reviews,12.5k Salaries,Mumbai
+Indiamart Intermesh,3.5,Internet,5.9k Reviews,20.6k Salaries,Noida
+HSBC Group,3.9,Financial Services,5.9k Reviews,43.2k Salaries,Bengaluru
+SMFG India Credit,3.9,NBFC,5.8k Reviews,11.2k Salaries,Mumbai
+PolicyBazaar,3.7,Internet,5.8k Reviews,17.3k Salaries,Gurugram
+Access Healthcare,3.7,BPO,5.7k Reviews,28.4k Salaries,Chennai
+Aurobindo Pharma,4.0,Pharma,5.7k Reviews,20.6k Salaries,Hyderabad
+Siemens,3.9,Industrial Automation,5.7k Reviews,33.7k Salaries,Bengaluru
+BigBasket,3.9,Internet,5.7k Reviews,19.2k Salaries,Bengaluru
+Udaan,3.9,Internet,5.7k Reviews,15.5k Salaries,Bengaluru
+Manappuram Finance,3.9,NBFC,5.7k Reviews,9.1k Salaries,Bengaluru
+GlobalLogic,3.5,IT Services & Consulting,5.6k Reviews,40.6k Salaries,Hyderabad
+Firstsource Solutions,3.5,BPO,5.6k Reviews,24.3k Salaries,Bengaluru
+ICICI Lombard General Insurance Company,3.5,Insurance,5.6k Reviews,20k Salaries,Mumbai
+Tata Capital,4.0,NBFC,5.6k Reviews,15.9k Salaries,Mumbai
+Shapoorji Pallonji Group,4.1,Engineering & Construction,5.6k Reviews,15.3k Salaries,Mumbai
+Standard Chartered,3.6,Banking,5.6k Reviews,41.9k Salaries,Chennai
+Apollo Hospitals,4.1,Healthcare,5.5k Reviews,16.6k Salaries,Chennai
+UST,3.7,IT Services & Consulting,5.5k Reviews,39.3k Salaries,Bengaluru
+Mahindra Finance,3.9,NBFC,5.5k Reviews,12.2k Salaries,Mumbai
+Bosch Global Software Technologies,3.7,IT Services & Consulting,5.5k Reviews,40.2k Salaries,Bengaluru
+Ashok Leyland,4.0,Automobile,5.5k Reviews,18.6k Salaries,Chennai
+Swiggy,3.7,Internet,5.4k Reviews,23.1k Salaries,Bengaluru
+Citicorp,3.7,Financial Services,5.4k Reviews,52.3k Salaries,Pune
+Hero MotoCorp,4.1,Automobile,5.4k Reviews,15.9k Salaries,Gurugram
+CGI Group,4.0,IT Services & Consulting,5.3k Reviews,45.7k Salaries,Bengaluru
+Cyient,3.6,IT Services & Consulting,5.3k Reviews,27.5k Salaries,Hyderabad
+SBI Cards & Payment Services,3.6,Financial Services,5.2k Reviews,16k Salaries,Gurugram
+BNY,3.6,Financial Services,5.2k Reviews,31k Salaries,Pune
+Kalpataru Projects International,4.2,Engineering & Construction,5.2k Reviews,13.7k Salaries,Mumbai
+IQVIA,3.7,Clinical Research,5.1k Reviews,30.7k Salaries,Bengaluru
+JustDial,3.5,Internet,5.1k Reviews,15.4k Salaries,Noida
+NTT DATA,3.8,IT Services & Consulting,5.1k Reviews,36k Salaries,Bengaluru
+Nagarjuna Construction Company,4.0,Engineering & Construction,5.1k Reviews,12.1k Salaries,Hyderabad
+SBI Life Insurance Company,3.7,Insurance,5k Reviews,11.9k Salaries,Mumbai
+Schneider Electric,4.1,Industrial Automation,5k Reviews,24.5k Salaries,Bengaluru
+TVS Motor,3.9,Automobile,5k Reviews,15.9k Salaries,Hosur
+CBRE,4.1,Real Estate,5k Reviews,18.8k Salaries,Hyderabad
+Persistent Systems,3.6,IT Services & Consulting,4.9k Reviews,44.9k Salaries,Pune
+vivo,4.1,Consumer Electronics & Appliances,4.9k Reviews,12.9k Salaries,Noida
+State Bank of India,3.8,Banking,4.9k Reviews,11.5k Salaries,Mumbai
+Atos,3.8,IT Services & Consulting,4.9k Reviews,34.2k Salaries,Pune
+Ecom Express,4.0,Logistics,4.8k Reviews,9.6k Salaries,Gurugram
+KEC International,4.0,Engineering & Construction,4.8k Reviews,13.4k Salaries,Mumbai
+Amdocs,3.6,Software Product,4.8k Reviews,37.2k Salaries,Pune
+Eviden,3.6,IT Services & Consulting,4.8k Reviews,27.9k Salaries,Pune
+JBM Group,3.9,Auto Components,4.7k Reviews,13.9k Salaries,Gurugram
+Varun Beverages,4.0,Beverage,4.7k Reviews,12.1k Salaries,New Delhi
+ITC Infotech,3.7,IT Services & Consulting,4.7k Reviews,29.5k Salaries,Bengaluru
+Nagarro,3.9,IT Services & Consulting,4.7k Reviews,32.5k Salaries,Gurugram
+Bosch,4.1,Auto Components,4.6k Reviews,20.9k Salaries,Bengaluru
+Randstad,3.7,Recruitment,4.6k Reviews,16.6k Salaries,Hyderabad
+EY Global Delivery Services ( EY GDS),3.5,IT Services & Consulting,4.6k Reviews,49.2k Salaries,Bengaluru
+Utkarsh Small Finance Bank,3.6,Banking,4.6k Reviews,11.2k Salaries,Varanasi
+Hewlett Packard Enterprise,4.1,IT Services & Consulting,4.5k Reviews,27.2k Salaries,Bengaluru
+Home Credit Finance,4.0,NBFC,4.5k Reviews,9.5k Salaries,Gurugram
+Aditya Birla Fashion and Retail,4.1,Fashion & Textile,4.5k Reviews,13.2k Salaries,Bengaluru
+Mahindra Logistics,3.7,Logistics,4.5k Reviews,13k Salaries,Mumbai
+L&T Finance,3.9,NBFC,4.5k Reviews,11.7k Salaries,Mumbai
+CARS24,3.4,Internet,4.5k Reviews,15.5k Salaries,Gurugram
+Havells,3.9,Electrical Equipment,4.5k Reviews,15.2k Salaries,Noida
+Dell,3.8,Consumer Electronics & Appliances,4.5k Reviews,28.8k Salaries,Bengaluru
+OPPO,3.9,Consumer Electronics & Appliances,4.4k Reviews,11.8k Salaries,Greater Noida
+Intas Pharmaceuticals,4.1,Pharma,4.4k Reviews,17.2k Salaries,Ahmedabad
+R1 RCM,3.8,BPO,4.4k Reviews,21.4k Salaries,New Delhi
+Tata AIA Life Insurance,3.9,Insurance,4.4k Reviews,14.7k Salaries,Mumbai
+Hyundai Motor India Limited,4.1,Automobile,4.4k Reviews,14k Salaries,Chennai
+Deutsche Bank,3.8,Banking,4.4k Reviews,36.2k Salaries,Pune
+Hetero,3.9,Pharma,4.4k Reviews,15.1k Salaries,Hyderabad
+Motilal Oswal Financial Services,3.7,Financial Services,4.3k Reviews,13k Salaries,Mumbai
+Berger Paints,3.7,Chemicals,4.3k Reviews,10.1k Salaries,Kolkata
+TeamLease Services,3.9,Recruitment,4.3k Reviews,16.1k Salaries,Bengaluru
+Lenskart,3.3,Internet,4.2k Reviews,13.2k Salaries,New Delhi
+VE Commercial Vehicles,3.9,Automobile,4.2k Reviews,14k Salaries,Indore
+Thermax Limited,4.2,Industrial Machinery,4.2k Reviews,13.1k Salaries,Pune
+Bajaj Auto,3.8,Automobile,4.2k Reviews,14.5k Salaries,Pune
+Macleods Pharmaceuticals,3.7,Pharma,4.1k Reviews,15.6k Salaries,Mumbai
+Aakash Educational Services,3.2,Education & Training,4.1k Reviews,13.7k Salaries,New Delhi
+Jubilant Foods Works,3.7,Hospitality,4.1k Reviews,9.4k Salaries,New Delhi
+Kogta Financial India Limited,4.7,NBFC,4.1k Reviews,1.8k Salaries,Jaipur
+LG Electronics,3.9,Consumer Electronics & Appliances,4.1k Reviews,11k Salaries,Pune
+Hindalco Industries,4.2,Metals & Mining,4k Reviews,12.7k Salaries,Sambalpur
+Jindal Steel Limited,3.9,Iron & Steel,4k Reviews,15.6k Salaries,Angul
+Royal Enfield,4.2,Automobile,4k Reviews,14.9k Salaries,Chennai
+State Street Corporation,3.5,Financial Services,4k Reviews,31.6k Salaries,Bengaluru
+DCB Bank,3.8,Banking,4k Reviews,9.4k Salaries,Mumbai
+HDFC Ergo General Insurance,4.0,Insurance,4k Reviews,12.1k Salaries,Mumbai
+Tata Communications,3.9,Telecom,4k Reviews,23.6k Salaries,Pune
+John Deere,4.0,Industrial Machinery,4k Reviews,15.3k Salaries,Pune
+RBL Bank,3.5,Banking,4k Reviews,18.3k Salaries,Mumbai
+Cummins,4.3,Industrial Machinery,3.9k Reviews,15.6k Salaries,Pune
+Bank of America,4.1,Banking,3.9k Reviews,28.4k Salaries,Gurugram
+Oyo Rooms,3.0,Internet,3.9k Reviews,14.5k Salaries,Gurugram
+Alembic Pharmaceuticals,3.9,Pharma,3.9k Reviews,15.4k Salaries,Vadodara
+Pidilite Industries,4.2,Chemicals,3.9k Reviews,11.5k Salaries,Mumbai
+Publicis Sapient,3.3,IT Services & Consulting,3.8k Reviews,30.9k Salaries,Bengaluru
+Carelon Global Solutions,3.9,IT Services & Consulting,4.1k Reviews,28k Salaries,Bengaluru
+Reliance Communications,4.0,Telecom,3.8k Reviews,9.5k Salaries,Mumbai
+Subros,3.8,Auto Components,3.8k Reviews,12.5k Salaries,Noida
+Altruist Technologies,4.4,BPO,3.8k Reviews,8.2k Salaries,Bengaluru
+American Express,4.1,Financial Services,3.8k Reviews,24.8k Salaries,Gurugram
+XpressBees,4.2,Logistics,3.8k Reviews,8.1k Salaries,Pune
+Aditya Birla Sun Life Insurance,4.0,Insurance,3.8k Reviews,10.1k Salaries,Mumbai
+Viatris,4.1,Pharma,3.8k Reviews,14.1k Salaries,Hyderabad
+Grasim Industries,4.0,Building Material,3.8k Reviews,12.6k Salaries,Bharuch
+Kyndryl,3.9,IT Services & Consulting,3.8k Reviews,26.1k Salaries,Bengaluru
+Automatic Data Processing (ADP),3.9,Software Product,3.8k Reviews,22k Salaries,Hyderabad
+PVR INOX,3.9,Media & Entertainment,3.7k Reviews,9.4k Salaries,New Delhi
+PNB MetLife,3.4,Insurance,3.7k Reviews,8.1k Salaries,New Delhi
+Escorts Kubota Limited,4.1,Automobile,3.7k Reviews,13.3k Salaries,Faridabad
+Aditya Birla Capital,3.8,NBFC,3.7k Reviews,14.1k Salaries,Mumbai
+Maersk,4.0,Logistics,3.7k Reviews,19k Salaries,Chennai
+Synechron,3.4,IT Services & Consulting,3.7k Reviews,28.1k Salaries,Pune
+KPIT Technologies,2.9,Software Product,3.7k Reviews,23.2k Salaries,Pune
+Birlasoft,3.5,IT Services & Consulting,3.6k Reviews,29.7k Salaries,Pune
+Glenmark Pharmaceuticals,3.8,Pharma,3.6k Reviews,12.2k Salaries,Mumbai
+JK Cement,4.0,Building Material,3.6k Reviews,9.8k Salaries,New Delhi
+Sodexo,4.0,Facility Management Services,3.6k Reviews,9.7k Salaries,Mumbai
+Dabur,3.8,FMCG,3.6k Reviews,8.8k Salaries,New Delhi
+Kotak Mahindra Life Insurance Company,3.5,Insurance,3.6k Reviews,12.8k Salaries,Mumbai
+Godrej & Boyce Manufacturing,3.9,Consumer Electronics & Appliances,3.6k Reviews,15.1k Salaries,Mumbai
+Bharat Electronics,4.2,Electronics Manufacturing,3.6k Reviews,12.5k Salaries,Bengaluru
+Cogent E Services,3.2,BPO,3.6k Reviews,10.4k Salaries,Noida
+Samvardhana Motherson Group,3.7,Auto Components,3.6k Reviews,12.1k Salaries,Noida
+Abbott,4.1,Pharma,3.6k Reviews,11.8k Salaries,Mumbai
+Aarti Industries,4.1,Agro Chemicals,3.6k Reviews,14.4k Salaries,Bharuch
+Ipca Laboratories,3.8,Pharma,3.5k Reviews,11.5k Salaries,Mumbai
+Cloudnine Hospital,4.4,Healthcare,3.5k Reviews,2.9k Salaries,Bengaluru
+Reliance Projects & Property Management Services,4.0,Other,3.5k Reviews,7.3k Salaries,Kolkata
+PhonePe,4.0,FinTech,3.5k Reviews,12.8k Salaries,Bengaluru
+Indian Oil Corporation,4.3,Oil & Gas,3.5k Reviews,7.7k Salaries,New Delhi
+Reliance Digital,4.2,Retail,3.5k Reviews,8.2k Salaries,Mumbai
+MRF Tyres,3.6,Auto Components,3.5k Reviews,12.6k Salaries,Chennai
+Alkem Laboratories,3.9,Pharma,3.5k Reviews,9.9k Salaries,Mumbai
+Johnson Controls,3.5,Industrial Automation,3.5k Reviews,17.4k Salaries,Pune
+IGT Solutions,3.2,BPO,3.5k Reviews,13.6k Salaries,New Delhi
+"NTT DATA, Inc.",3.9,IT Services & Consulting,3.5k Reviews,21.2k Salaries,Bengaluru
+UNO Minda,4.0,Auto Components,3.5k Reviews,11.3k Salaries,Pune
+Honda Motorcycle & Scooter,4.1,Automobile,3.4k Reviews,11.1k Salaries,Gurugram
+ArcelorMittal Nippon Steel,4.1,Iron & Steel,3.4k Reviews,11.8k Salaries,Surat
+[24]7.ai,3.4,Software Product,3.4k Reviews,11.5k Salaries,Bengaluru
+Vishal Mega Mart,3.8,Retail,3.4k Reviews,6.2k Salaries,New Delhi
+Blinkit,3.8,Internet,3.4k Reviews,12.4k Salaries,Gurugram
+Hindustan Coca Cola Beverages,4.0,Beverage,3.4k Reviews,7.8k Salaries,Bengaluru
+UBS,3.8,Financial Services,3.4k Reviews,31.6k Salaries,Pune
+DTDC Express,3.7,Logistics,3.4k Reviews,8.6k Salaries,New Delhi
+IndusInd Nippon Life Insurance,3.4,Mumbai +486 other locations,3.4k Reviews,20 Salaries,
+Bajaj General Insurance Limited,3.7,Insurance,3.3k Reviews,11.1k Salaries,Pune
+Ford Motor,4.2,Automobile,3.3k Reviews,15.2k Salaries,Chennai
+Ceat Tyres,3.9,Auto Components,3.3k Reviews,12.9k Salaries,Nagpur
+ABB,4.1,Industrial Machinery,3.3k Reviews,17.8k Salaries,Bengaluru
+Barclays,3.7,Banking,3.3k Reviews,31.6k Salaries,Pune
+HARMAN,3.8,Consumer Electronics & Appliances,3.3k Reviews,24k Salaries,Bengaluru
+RSPL Group,4.0,FMCG,3.3k Reviews,9.6k Salaries,Kanpur
+AGS Health,4.0,Analytics & KPO,3.3k Reviews,14.3k Salaries,Chennai
+NatWest Group,4.0,Banking,3.3k Reviews,20.8k Salaries,Gurugram
+TVS Credit Services Ltd,4.2,NBFC,3.3k Reviews,7.5k Salaries,Chennai
+Niva Bupa Health Insurance Company,4.1,Insurance,3.2k Reviews,8.1k Salaries,New Delhi
+InterGlobe Aviation,3.5,Aviation,3.2k Reviews,13.4k Salaries,New Delhi
+Croma,3.8,Retail,3.2k Reviews,9.1k Salaries,Mumbai
+Alstom Transportation,3.7,Engineering & Construction,3.2k Reviews,14.9k Salaries,Bengaluru
+Conduent,3.4,BPO,3.2k Reviews,16.8k Salaries,Bengaluru
+Indian Air Force,4.5,Defence & Aerospace,3.2k Reviews,5.3k Salaries,New Delhi
+Tata Technologies,3.4,Engineering & Construction,3.2k Reviews,22.7k Salaries,Pune
+Tata AIG,4.0,Insurance,3.2k Reviews,11.5k Salaries,Mumbai
+GeBBS Healthcare Solutions,3.7,BPO,3.2k Reviews,11.3k Salaries,Mumbai
+Allcargo Logistics,3.8,Logistics,3.2k Reviews,6.9k Salaries,Mumbai
+UPL,4.1,Agro Chemicals,3.1k Reviews,11.2k Salaries,Ankleshwar
+Marpu Foundation,4.9,Non-Profit,3.1k Reviews,60 Salaries,Hyderabad
+Max Healthcare,3.9,Healthcare,3.1k Reviews,10.4k Salaries,New Delhi
+PepsiCo,4.1,Food Processing,3.1k Reviews,13.4k Salaries,Hyderabad
+Amazon Transportation Services,4.2,Logistics,3.1k Reviews,8.3k Salaries,Hyderabad
+Titan Company,4.2,Retail,3.1k Reviews,9.6k Salaries,Bengaluru
+Dilip Buildcon,3.9,Engineering & Construction,3.1k Reviews,8k Salaries,Bhopal
+Walmart,3.5,Retail,3.1k Reviews,22.4k Salaries,Bengaluru
+Mankind Pharma,3.8,Pharma,3.1k Reviews,9.4k Salaries,New Delhi
+Varroc Group,3.6,Auto Components,3.1k Reviews,9.5k Salaries,Pune
+Jindal Stainless,4.2,Iron & Steel,3.1k Reviews,11.4k Salaries,Jajpur
+S&P Global,4.0,Analytics & KPO,3k Reviews,20.3k Salaries,Hyderabad
+MSN Laboratories,3.6,Pharma,3k Reviews,9.4k Salaries,Hyderabad
+Future Group,4.2,Retail,3k Reviews,6.8k Salaries,Mumbai
+Quest Global,3.5,IT Services & Consulting,3k Reviews,21.2k Salaries,Bengaluru
+Societe Generale Global Solution Centre,3.6,IT Services & Consulting,3k Reviews,22.9k Salaries,Bengaluru
+Afcons Infrastructure,4.2,Engineering & Construction,3k Reviews,8.6k Salaries,Mumbai
+Torrent Pharmaceuticals,4.0,Pharma,3k Reviews,10.1k Salaries,Ahmedabad
+Sagility,3.9,BPO,3k Reviews,11.6k Salaries,Bengaluru
+IDFC FIRST Bharat,4.2,Financial Services,3k Reviews,5k Salaries,Chennai
+Square Yards,3.6,Internet,3k Reviews,9.3k Salaries,Gurugram
+HDFC Sales,3.9,Financial Services,3k Reviews,8.3k Salaries,Mumbai
+CMS IT Services,3.1,IT Services & Consulting,2.9k Reviews,9.4k Salaries,Mumbai
+ESAF Small Finance Bank,3.6,Banking,2.9k Reviews,7.7k Salaries,Thrissur
+Zensar Technologies,3.7,IT Services & Consulting,2.9k Reviews,25.6k Salaries,Pune
+I Process Services,3.8,Recruitment,2.9k Reviews,5.5k Salaries,Mumbai
+ACC,3.9,Building Material,2.9k Reviews,9k Salaries,Mumbai
+Ola Electric Mobility,3.3,Automobile,2.9k Reviews,9.3k Salaries,Bengaluru
+DS Group,4.1,FMCG,2.9k Reviews,7.8k Salaries,Noida
+Suzlon Group,4.0,Power,2.9k Reviews,7.8k Salaries,Pune
+Tata Elxsi,3.5,IT Services & Consulting,2.9k Reviews,22.8k Salaries,Bengaluru
+Eternal Limited,3.7,Internet,2.9k Reviews,14.6k Salaries,Gurugram
+Fujitsu,3.8,IT Services & Consulting,2.9k Reviews,17.3k Salaries,Pune
+Shoppers Stop,4.0,Retail,2.9k Reviews,6.9k Salaries,Mumbai
+Bharat Financial Inclusion,3.7,Financial Services,2.9k Reviews,5.1k Salaries,Hyderabad
+VVDN Technologies,3.6,IT Services & Consulting,2.9k Reviews,13.6k Salaries,Gurugram
+Indus Towers,3.6,Telecom,2.9k Reviews,9.1k Salaries,Gurugram
+Nokia,4.0,Telecom,2.9k Reviews,16.3k Salaries,Bengaluru
+Apollo Tyres,4.0,Auto Components,2.9k Reviews,9.9k Salaries,Chennai
+Yazaki,3.9,Auto Components,2.8k Reviews,9k Salaries,Pune
+IKS Health,3.6,Healthcare,2.8k Reviews,11.2k Salaries,Mumbai
+Fiserv,2.9,FinTech,2.8k Reviews,17.6k Salaries,Pune
+Shree Cement,3.8,Building Material,2.8k Reviews,9.7k Salaries,Beawar
+UnitedHealth,4.0,Healthcare,2.8k Reviews,14.4k Salaries,Hyderabad
+Britannia,4.0,FMCG,2.8k Reviews,8.1k Salaries,Pune
+Landmark Group,3.8,Retail,2.8k Reviews,9.2k Salaries,Bengaluru
+SRF,4.1,Chemicals,2.7k Reviews,8.9k Salaries,Bharuch
+Dalmia Bharat Cement,3.9,Building Material,2.7k Reviews,4.5k Salaries,Guwahati
+Zepto,3.5,Internet,2.7k Reviews,9.1k Salaries,Bengaluru
+Blue Dart Express Ltd,3.9,Logistics,2.7k Reviews,6.8k Salaries,Mumbai
+Kansai Nerolac Paints,3.8,Chemicals,2.7k Reviews,7.7k Salaries,Mumbai
+Exide Industries,3.4,Auto Components,2.7k Reviews,8.7k Salaries,Kolkata
+Nestlé,3.8,FMCG,2.7k Reviews,9.7k Salaries,Gurugram
+Shell,3.9,Oil & Gas,2.7k Reviews,13.9k Salaries,Bengaluru
+Tata Electronics,3.9,Semiconductors,2.7k Reviews,10.9k Salaries,Hosur
+Whitehat jr,3.3,EdTech,2.7k Reviews,9.3k Salaries,Mumbai
+KPMG Global Services,3.5,Management Consulting,2.7k Reviews,23.8k Salaries,Bengaluru
+Flex,3.9,Electronics Manufacturing,2.7k Reviews,15.8k Salaries,Chennai
+ZS,3.1,Management Consulting,2.7k Reviews,20.1k Salaries,Pune
+Micro Labs,3.6,Pharma,2.7k Reviews,9.8k Salaries,Bengaluru
+Star Health & Allied Insurance,3.5,Insurance,2.7k Reviews,9.9k Salaries,Chennai
+TVS Supply Chain Solutions,3.8,Logistics,2.6k Reviews,8.4k Salaries,Chennai
+Capita,3.5,BPO,2.6k Reviews,12.8k Salaries,Pune
+ElasticRun,3.6,Logistics,2.6k Reviews,6.1k Salaries,Pune
+KFintech,3.4,Financial Services,2.6k Reviews,11.1k Salaries,Hyderabad
+G4S,4.0,Law Enforcement & Security,2.6k Reviews,5.1k Salaries,Gurugram
+Voltas,4.0,Consumer Electronics & Appliances,2.6k Reviews,8.6k Salaries,Mumbai
+Sonalika Tractors,3.6,Automobile,2.6k Reviews,8.9k Salaries,Hoshiarpur
+Ajanta Pharma,3.9,Pharma,2.6k Reviews,8.9k Salaries,Mumbai
+Care Health Insurance,3.6,Insurance,2.6k Reviews,8.5k Salaries,Gurugram
+BlackBuck,3.7,Internet,2.6k Reviews,6.4k Salaries,Bengaluru
+Blue Star,4.1,Consumer Electronics & Appliances,2.6k Reviews,9.8k Salaries,Mumbai
+Exl India,3.6,Logistics,2.6k Reviews,15.1k Salaries,New Delhi
+Domino's Pizza,3.9,Hospitality,2.6k Reviews,4.1k Salaries,New Delhi
+Movate,3.1,IT Services & Consulting,2.6k Reviews,14.9k Salaries,Chennai
+NoBroker,3.0,Internet,2.6k Reviews,10.7k Salaries,Bengaluru
+Fortis Healthcare,4.0,Healthcare,2.5k Reviews,7.5k Salaries,New Delhi
+Adani Power,3.7,Power,2.5k Reviews,9.7k Salaries,Mundra
+Gallagher,3.7,Insurance,2.5k Reviews,14k Salaries,Bengaluru
+ACT Fibernet,3.9,Telecom,2.5k Reviews,7.8k Salaries,Hyderabad
+DBS Bank,3.7,Banking,2.5k Reviews,12.9k Salaries,Hyderabad
+Sahrudaya Healthcare (Medicover Hospitals),4.4,Healthcare,2.5k Reviews,3.4k Salaries,Hyderabad
+Physicswallah,3.6,EdTech,2.5k Reviews,8.1k Salaries,Noida
+Foxconn,3.9,Electronics Manufacturing,2.5k Reviews,10.4k Salaries,Chennai
+Foundever,3.4,BPO,2.5k Reviews,8.7k Salaries,Hyderabad
+Tata Advanced Systems,3.7,Defence & Aerospace,2.5k Reviews,12.7k Salaries,Bengaluru
+Bajaj Electricals,3.9,Consumer Electronics & Appliances,2.5k Reviews,7.4k Salaries,Mumbai
+Sterlite Technologies,3.8,Hardware & Networking,2.5k Reviews,10.2k Salaries,Chhatrapati Sambhajinagar
+BT Group,3.8,Telecom,2.5k Reviews,11.5k Salaries,Gurugram
+Photon Interactive,4.1,IT Services & Consulting,2.5k Reviews,7.3k Salaries,Chennai
+Alldigi Tech,3.9,BPO,2.5k Reviews,7.6k Salaries,Chennai
+V-Mart,4.1,Retail,2.5k Reviews,4.3k Salaries,Gurugram
+Himalaya Wellness,4.0,Pharma,2.5k Reviews,5.9k Salaries,Bengaluru
+Sammaan Capital Limited,3.8,NBFC,2.5k Reviews,5.8k Salaries,Gurugram
+Tractors and Farm Equipment,3.9,Industrial Machinery,2.5k Reviews,8.3k Salaries,Chennai
+Northern Trust Operating Services,3.6,Financial Services,2.5k Reviews,17.1k Salaries,Bengaluru
+IntouchCX,2.7,BPO,2.5k Reviews,9.9k Salaries,Hyderabad
+JCB,3.9,Industrial Machinery,2.5k Reviews,9.5k Salaries,Pune
+Laurus Labs,4.3,Pharma,2.5k Reviews,7.2k Salaries,Visakhapatnam
+Parle Agro,3.9,Beverage,2.5k Reviews,6.7k Salaries,Mumbai
+Planet Spark,3.9,EdTech,2.4k Reviews,3.5k Salaries,Gurugram
+Patanjali Ayurved,3.9,FMCG,2.4k Reviews,5.8k Salaries,Haridwar
+McDonald's,3.8,Hospitality,2.4k Reviews,5k Salaries,New Delhi
+Paras Hospital,4.1,Healthcare,2.4k Reviews,3.1k Salaries,Patna
+Statestreet HCL Services,3.4,BPO,2.4k Reviews,13.5k Salaries,Chennai
+Canara HSBC Life Insurance,3.6,Insurance,2.4k Reviews,6.2k Salaries,Gurugram
+ICICI Securities,3.9,Financial Services,2.4k Reviews,9.8k Salaries,Mumbai
+Emcure Pharmaceuticals,3.6,Pharma,2.4k Reviews,8.4k Salaries,Pune
+Mahindra Rural Housing Finance,4.0,NBFC,2.4k Reviews,4.8k Salaries,Mumbai
+Hero FinCorp,3.9,NBFC,2.4k Reviews,5.7k Salaries,New Delhi
+Biocon Limited,4.0,Biotechnology,2.4k Reviews,11.7k Salaries,Bengaluru
+Intellect Design Arena,3.6,Software Product,2.4k Reviews,13.4k Salaries,Chennai
+Mahindra Holidays & Resorts,3.5,Hospitality,2.4k Reviews,5.8k Salaries,Mumbai
+Datamatics Global Services,3.4,IT Services & Consulting,2.4k Reviews,11.7k Salaries,Mumbai
+Adani Group,3.8,Power,2.4k Reviews,11k Salaries,Ahmedabad
+CorroHealth Infotech,3.6,Analytics & KPO,2.4k Reviews,7.3k Salaries,Hyderabad
+Axis Direct,3.6,Financial Services,2.4k Reviews,4.7k Salaries,Mumbai
+Taj Hotels Resorts and Palaces,4.2,Hospitality,2.4k Reviews,4.8k Salaries,Mumbai
+3i Infotech,3.4,IT Services & Consulting,2.3k Reviews,10.6k Salaries,Mumbai
+Cholamandalam MS General Insurance,3.7,Insurance,2.3k Reviews,6k Salaries,Chennai
+Cadila Pharmaceuticals,3.3,Pharma,2.3k Reviews,7.8k Salaries,Ahmedabad
+Aditya Birla Group,4.1,Metals & Mining,2.3k Reviews,10k Salaries,Mumbai
+Capgemini Engineering,3.4,IT Services & Consulting,2.3k Reviews,14.5k Salaries,Bengaluru
+Syngene International,3.8,Clinical Research,2.3k Reviews,12.6k Salaries,Bengaluru
+Info Edge,3.9,Internet,2.3k Reviews,11.2k Salaries,Noida
+KocharTech,3.6,IT Services & Consulting,2.3k Reviews,3.8k Salaries,Kolkata
+Bureau Veritas,3.8,Other,2.3k Reviews,8.1k Salaries,Mumbai
+Delhi Public School,3.8,Education & Training,2.3k Reviews,5.2k Salaries,New Delhi
+Cybage,3.8,IT Services & Consulting,2.3k Reviews,17.2k Salaries,Pune
+Aavas Financiers,3.9,NBFC,2.3k Reviews,5.5k Salaries,Jaipur
+RMSI,3.6,IT Services & Consulting,2.3k Reviews,8.6k Salaries,Hyderabad
+Xoriant,4.1,IT Services & Consulting,2.3k Reviews,11.5k Salaries,Pune
+Lifestyle,4.2,Retail,2.3k Reviews,6.8k Salaries,Bengaluru
+TaskUs,3.1,BPO,2.3k Reviews,9.1k Salaries,Indore
+Akums Drugs & Pharmaceuticals Limited,4.2,Pharma,2.3k Reviews,6.2k Salaries,Haridwar
+Sopra Steria,3.9,IT Services & Consulting,2.3k Reviews,13.9k Salaries,Noida
+Kia India,4.0,Automobile,2.3k Reviews,8.2k Salaries,Anantapur
+Straive,3.3,IT Services & Consulting,2.3k Reviews,10.1k Salaries,Chennai
+GVK Emergency Management and Research Institute,3.6,Non-Profit,2.3k Reviews,4.6k Salaries,Lucknow
+Eureka Forbes,3.7,Consumer Electronics & Appliances,2.3k Reviews,5.6k Salaries,Mumbai
+Sobha,3.8,Real Estate,2.3k Reviews,8.3k Salaries,Bengaluru
+Apollo Pharmacy,3.6,Pharma,2.2k Reviews,6.9k Salaries,Hyderabad
+Unacademy,2.9,EdTech,2.2k Reviews,10.3k Salaries,Bengaluru
+Radisson Hotels,4.0,Hospitality,2.2k Reviews,5.1k Salaries,New Delhi
+Lodha,4.1,Real Estate,2.2k Reviews,8.6k Salaries,Mumbai
+Endurance Technologies Limited,3.9,Auto Components,2.2k Reviews,7.8k Salaries,Chhatrapati Sambhajinagar
+Myntra,3.9,Internet,2.2k Reviews,10.4k Salaries,Bengaluru
+Team Computers,3.6,IT Services & Consulting,2.2k Reviews,8.4k Salaries,New Delhi
+SBI Securities,3.6,Financial Services,2.2k Reviews,6.8k Salaries,Mumbai
+Panasonic Life Solutions India,3.9,Consumer Electronics & Appliances,2.2k Reviews,6.8k Salaries,Haridwar
+TCE,3.8,Engineering & Construction,2.2k Reviews,9.3k Salaries,Mumbai
+Lava International,3.9,Consumer Electronics & Appliances,2.2k Reviews,4.4k Salaries,Noida
+AWL Agri Business,4.0,FMCG,2.2k Reviews,6.8k Salaries,Ahmedabad
+Star Union Dai-ichi Life Insurance,3.8,Insurance,2.2k Reviews,5.2k Salaries,Mumbai
+Whirlpool,4.0,Consumer Electronics & Appliances,2.2k Reviews,7.9k Salaries,Pune
+Daikin Airconditioning India Pvt. Ltd.,4.2,Consumer Electronics & Appliances,2.2k Reviews,7.6k Salaries,Neemrana
+Indian Railways,4.2,Railways,2.2k Reviews,3.4k Salaries,Kolkata
+Cisco,4.1,Hardware & Networking,2.2k Reviews,18.5k Salaries,Bengaluru
+Bharti AXA Life Insurance,3.6,Insurance,2.2k Reviews,5.2k Salaries,Mumbai
+SBI General Insurance,3.6,Insurance,2.2k Reviews,6.5k Salaries,Mumbai
+GAO Tek,4.5,Electrical Equipment,2.2k Reviews,259 Salaries,New York
+Newgen Software Technologies,4.0,IT Services & Consulting,2.2k Reviews,11.5k Salaries,Noida
+GlaxoSmithKline Pharmaceuticals,4.0,Pharma,2.2k Reviews,5.6k Salaries,Bengaluru
+BNP Paribas,3.7,Banking,2.1k Reviews,17.8k Salaries,Mumbai
+Coromandel International,4.1,Agro Chemicals,2.1k Reviews,7.5k Salaries,Visakhapatnam
+Nokia Networks,4.1,Hardware & Networking,2.1k Reviews,10.5k Salaries,Chennai
+Renault Nissan Technology & Business Centre India,3.8,Automobile,2.1k Reviews,14.5k Salaries,Chennai
+Shahi Exports,3.9,Fashion & Textile,2.1k Reviews,6.8k Salaries,Bengaluru
+Meesho,3.7,Internet,2.1k Reviews,9.4k Salaries,Bengaluru
+Sify Technologies,3.6,IT Services & Consulting,2.1k Reviews,9.8k Salaries,Chennai
+Allstate,3.6,Insurance,2.1k Reviews,12.2k Salaries,Pune
+Ambuja Cements,3.8,Building Material,2.1k Reviews,6k Salaries,Mumbai
+ValueLabs,3.5,IT Services & Consulting,2.1k Reviews,15.9k Salaries,Hyderabad
+Microsoft Corporation,3.8,Software Product,2.1k Reviews,29.1k Salaries,Bengaluru
+Bank of Baroda,3.5,Banking,2.1k Reviews,7.1k Salaries,Mumbai
+Life Insurance Corporation of India,4.4,Insurance,2.1k Reviews,4.6k Salaries,New Delhi
+Huawei Technologies,4.0,Telecom,2.1k Reviews,8.1k Salaries,Bengaluru
+Brakes India,3.9,Auto Components,2.1k Reviews,7.1k Salaries,Chennai
+Cargill,3.9,Food Processing,2.1k Reviews,8.4k Salaries,Bengaluru
+BHEL,4.2,Electrical Equipment,2.1k Reviews,5.2k Salaries,Bengaluru
+Spark Minda,3.8,Auto Components,2.1k Reviews,7.1k Salaries,Pune
+Simplex Infrastructures,3.4,Engineering & Construction,2.1k Reviews,4.6k Salaries,Kolkata
+upGrad,3.4,EdTech,2.1k Reviews,9.2k Salaries,Bengaluru
+CAMS,3.6,Financial Services,2.1k Reviews,8.6k Salaries,Chennai
+Power Mech Projects,3.8,Engineering & Construction,2.1k Reviews,6.7k Salaries,Hyderabad
+Pfizer,3.9,Pharma,2.1k Reviews,5.8k Salaries,Visakhapatnam
+FirstCry,3.6,Retail,2.1k Reviews,8.8k Salaries,Pune
+Mercedes-Benz Research and Development India,3.6,IT Services & Consulting,2.1k Reviews,17.6k Salaries,Bengaluru
+Poonawalla Fincorp,3.6,NBFC,2.1k Reviews,5.7k Salaries,Pune
+Generali Central Life Insurance,3.5,Insurance,2.1k Reviews,6.6k Salaries,Mumbai
+Bharat Petroleum,4.2,Oil & Gas,2.1k Reviews,6.8k Salaries,Mumbai
+Force Motors,3.7,Automobile,2.1k Reviews,8.2k Salaries,Pune
+"Maruti Suzuki India Limited, Hansalpur",4.2,Automobile,2.1k Reviews,6.8k Salaries,Ahmedabad
+Nuvoco Vistas,4.1,Building Material,2.1k Reviews,6.9k Salaries,Kolkata
+Saint-Gobain,3.9,Building Material,2.1k Reviews,11.4k Salaries,Mumbai
+NTT DATA Business Solutions,4.1,IT Services & Consulting,2.1k Reviews,12.3k Salaries,Bengaluru
+Ola Cabs,3.3,Internet,2.1k Reviews,9.1k Salaries,Bengaluru
+Jio Platforms,3.4,IT Services & Consulting,2.1k Reviews,13.7k Salaries,Mumbai
+Reliance Trends,4.0,Retail,2k Reviews,4.2k Salaries,Bengaluru
+Raymond Lifestyle Limited,4.2,Fashion & Textile,2k Reviews,6.4k Salaries,Mumbai
+Kotak Securities,3.5,Financial Services,2k Reviews,9.5k Salaries,Mumbai
+Manipal Hospitals,4.1,Healthcare,2k Reviews,6.8k Salaries,Bengaluru
+Renault-Nissan,4.1,Automobile,2k Reviews,7.5k Salaries,Chennai
+IndusInd General Insurance,3.6,Insurance,2k Reviews,7.1k Salaries,Mumbai
+ITC Hotels,4.1,Hospitality,2k Reviews,5.2k Salaries,Bengaluru
+Delphi TVS,3.9,Auto Components,2k Reviews,5.6k Salaries,Chennai
+Henry Harvin Education,3.6,EdTech,2k Reviews,908 Salaries,Noida
+Extramarks Education,3.4,EdTech,2k Reviews,7.4k Salaries,Noida
+CitiusTech,3.2,IT Services & Consulting,2k Reviews,14.2k Salaries,Mumbai
+JK Tyre,3.7,Auto Components,2k Reviews,6.8k Salaries,Chennai
+Biological E,4.2,Pharma,2k Reviews,7k Salaries,Hyderabad
+Infinite Computer Solutions,3.3,IT Services & Consulting,2k Reviews,14.9k Salaries,Bengaluru
+Morgan Stanley,3.6,Financial Services,2k Reviews,26k Salaries,Mumbai
+SGS,3.8,"Testing, Inspection and Certification (TIC)",2k Reviews,6.3k Salaries,Mumbai
+YASH Technologies,3.7,IT Services & Consulting,2k Reviews,16.3k Salaries,Hyderabad
+EPAM Systems,3.7,IT Services & Consulting,2k Reviews,21.7k Salaries,Hyderabad
+Senco Gold,4.4,Jewellery,2k Reviews,1.5k Salaries,Kolkata
+State Street Syntel,3.7,Financial Services,2k Reviews,7.2k Salaries,Mumbai
+Ninjacart,3.8,Internet,2k Reviews,5.2k Salaries,Bengaluru
+Novartis,4.1,Pharma,2k Reviews,10k Salaries,Hyderabad
+K12 Techno Services,3.7,EdTech,2k Reviews,5.2k Salaries,Bengaluru
+HSBC Electronic Data Processing,4.0,IT Services & Consulting,2k Reviews,8.6k Salaries,Bengaluru
+Valeo,3.9,Auto Components,1.9k Reviews,7.9k Salaries,Chennai
+SAP,4.1,Software Product,1.9k Reviews,17.5k Salaries,Bengaluru
+IDBI Bank,3.4,Banking,1.9k Reviews,6k Salaries,Mumbai
+AECOM,4.2,Engineering & Construction,1.9k Reviews,7k Salaries,Gurugram
+Narayana Health,4.0,Healthcare,1.9k Reviews,6k Salaries,Bengaluru
+L&T Energy Hydrocarbon,3.8,Engineering & Construction,1.9k Reviews,8.3k Salaries,Vadodara
+Aditya Birla Health Insurance Co,3.7,Insurance,1.9k Reviews,7.1k Salaries,Mumbai
+Paisabazaar.com,3.4,Internet,1.9k Reviews,7k Salaries,Gurugram
+Honeywell Automation,3.7,Industrial Automation,1.9k Reviews,11.9k Salaries,Pune
+Schindler,3.9,Industrial Machinery,1.9k Reviews,6.2k Salaries,Pune
+Trent,3.8,Retail,1.9k Reviews,4.8k Salaries,Mumbai
+Shadowfax Technologies,3.5,Logistics,1.9k Reviews,7.5k Salaries,Bengaluru
+Motherson Automotive Technologies and Engineering,3.8,Auto Components,1.9k Reviews,7.4k Salaries,Chennai
+R.R. Donnelley,3.6,Marketing & Advertising,1.9k Reviews,10.1k Salaries,Chennai
+V-Guard Industries,4.3,Consumer Electronics & Appliances,1.9k Reviews,4.5k Salaries,Kochi
+Haier Appliances India,4.0,Consumer Electronics & Appliances,1.9k Reviews,6.9k Salaries,Pune
+Philips,3.8,Medical Equipment,1.9k Reviews,10.9k Salaries,Bengaluru
+Dr Lal PathLabs,4.2,Healthcare,1.9k Reviews,4.4k Salaries,New Delhi
+Microland,3.5,IT Services & Consulting,1.9k Reviews,10.6k Salaries,Bengaluru
+Parle Products,3.9,FMCG,1.9k Reviews,3.8k Salaries,Mumbai
+Uflex,3.8,Packaging,1.9k Reviews,6.6k Salaries,Noida
+Gabriel India Limited,4.1,Auto Components,1.9k Reviews,5.8k Salaries,Pune
+NCR Voyix,3.5,IT Services & Consulting,1.9k Reviews,9.2k Salaries,Hyderabad
+CMS Infosystems,3.5,Software Product,1.9k Reviews,4.7k Salaries,Mumbai
+Spinny,3.7,Internet,1.9k Reviews,7.3k Salaries,Gurugram
+Tekwissen,4.9,IT Services & Consulting,1.9k Reviews,567 Salaries,Visakhapatnam
+Google,4.4,Software Product,1.9k Reviews,31.7k Salaries,Bengaluru
+Globiva,3.0,BPO,1.9k Reviews,5.2k Salaries,Gurugram
+Crisil,3.5,Analytics & KPO,1.9k Reviews,13.2k Salaries,Mumbai
+Lucas-TVS,3.9,Auto Components,1.9k Reviews,6k Salaries,Chennai
+Adecco Group,3.8,Recruitment,1.9k Reviews,7.1k Salaries,Bengaluru
+Angel One,3.6,FinTech,1.9k Reviews,7.5k Salaries,Mumbai
+CNH (Case New Holland),3.7,Industrial Machinery,1.9k Reviews,5.9k Salaries,Gurugram
+Safexpress,3.9,Logistics,1.9k Reviews,5.7k Salaries,New Delhi
+DHL Supply Chain,4.2,Logistics,1.9k Reviews,6.1k Salaries,Mumbai
+Aye Finance,4.1,NBFC,1.9k Reviews,3.4k Salaries,Gurugram
+G R Infraprojects,4.1,Engineering & Construction,1.9k Reviews,5.4k Salaries,Gurugram
+Aadhar Housing Finance,4.1,NBFC,1.9k Reviews,4.9k Salaries,Mumbai
+NTPC,4.2,Power,1.9k Reviews,4.2k Salaries,New Delhi
+HTC Global Services,3.4,IT Services & Consulting,1.9k Reviews,12.9k Salaries,Chennai
+Iris Software,3.8,IT Services & Consulting,1.9k Reviews,7.8k Salaries,Noida
+Tata Tele Business Services,3.6,Telecom,1.9k Reviews,4.5k Salaries,Mumbai
+Thomson Reuters,3.8,Software Product,1.9k Reviews,10.6k Salaries,Bengaluru
+Tata Power,3.9,Power,1.9k Reviews,7.2k Salaries,Mumbai
+Infinx,3.7,Software Product,1.9k Reviews,5.3k Salaries,Hyderabad
+Trident Group,3.3,Fashion & Textile,1.8k Reviews,5.3k Salaries,Barnala
+Hindustan Aeronautics,4.3,Defence & Aerospace,1.8k Reviews,4.4k Salaries,Bengaluru
+TVS Sundram Fasteners,3.6,Auto Components,1.8k Reviews,6.7k Salaries,Chennai
+Torrent Power,3.8,Power,1.8k Reviews,7.7k Salaries,Ahmedabad
+PI Industries,3.8,Agro Chemicals,1.8k Reviews,6.8k Salaries,Vadodara
+KENT RO Systems,3.8,Consumer Electronics & Appliances,1.8k Reviews,4.5k Salaries,Noida
+ICICI Home Finance,3.7,Financial Services,1.8k Reviews,5.2k Salaries,Mumbai
+NeoSOFT,3.4,IT Services & Consulting,1.8k Reviews,10.5k Salaries,Mumbai
+Jindal Saw,4.0,Iron & Steel,1.8k Reviews,6.5k Salaries,Mundra
+CSB Bank,3.2,Banking,1.8k Reviews,6.8k Salaries,Mumbai
+Medi Assist India,3.5,Insurance,1.8k Reviews,7.3k Salaries,Bengaluru
+Aragen Life Sciences,3.9,Clinical Research,1.8k Reviews,6.4k Salaries,Hyderabad
+First American (India),3.5,Insurance,1.8k Reviews,9.4k Salaries,Bengaluru
+Honda Cars,4.3,Automobile,1.8k Reviews,6.3k Salaries,Bhiwadi
+Polycab Wires,3.9,Electrical Equipment,1.8k Reviews,6.8k Salaries,Vadodara
+Fusion CX,3.3,BPO,1.8k Reviews,4.4k Salaries,Kolkata
+Verizon,3.6,Telecom,1.8k Reviews,11.5k Salaries,Hyderabad
+AXA Global Business Services,3.8,IT Services & Consulting,1.8k Reviews,7.2k Salaries,Pune
+AkzoNobel,4.1,Chemicals,1.8k Reviews,4.3k Salaries,Pune
+Sterling & Wilson,4.0,Engineering & Construction,1.8k Reviews,6.7k Salaries,Mumbai
+TELUS Digital,3.6,IT Services & Consulting,1.8k Reviews,9.6k Salaries,Noida
+Infra.Market,3.9,Building Material,1.8k Reviews,3.7k Salaries,Mumbai
+Capri Global Capital,3.6,NBFC,1.8k Reviews,4k Salaries,New Delhi
+Innovsource Services,3.9,Recruitment,1.8k Reviews,4.6k Salaries,Mumbai
+Stellar Migration,1.3,Other,1.8k Reviews,-- Salaries,Dubai
+Godrej Properties,3.6,Real Estate,1.8k Reviews,8.6k Salaries,Mumbai
+Cafe Coffee Day,3.7,Hospitality,1.8k Reviews,3.8k Salaries,Bengaluru
+DIVI'S Laboratories,3.6,Pharma,1.8k Reviews,6.8k Salaries,Visakhapatnam
+Haldiram Foods International Limited,3.8,FMCG,1.8k Reviews,5.9k Salaries,Nagpur
+MetLife,4.1,Insurance,1.7k Reviews,9.1k Salaries,Noida
+SS&C TECHNOLOGIES,3.2,IT Services & Consulting,1.7k Reviews,13.3k Salaries,Mumbai
+Kalyan Jewellers,4.4,Jewellery,1.7k Reviews,1.5k Salaries,Thrissur
+Hindustan Petroleum,4.2,Oil & Gas,1.7k Reviews,5.9k Salaries,Mumbai
+Digit Insurance,3.8,Insurance,1.7k Reviews,5.8k Salaries,Bengaluru
+Tata Communications Transformation Services,3.8,Telecom,1.7k Reviews,8.3k Salaries,Pune
+Future Retail,4.4,Retail,1.7k Reviews,3.8k Salaries,Mumbai
+USHA International,4.1,Consumer Electronics & Appliances,1.7k Reviews,4.8k Salaries,Gurugram
+Reckitt Benckiser,3.9,FMCG,1.7k Reviews,6.1k Salaries,Gurugram
+Dhani Loans and Services,3.9,NBFC,1.7k Reviews,4.3k Salaries,Gurugram
+Air India,3.4,Aviation,1.7k Reviews,7.6k Salaries,New Delhi
+Security and Intelligence Services (India),4.0,Law Enforcement & Security,1.7k Reviews,4.3k Salaries,New Delhi
+USV,4.0,Pharma,1.7k Reviews,5.7k Salaries,Mumbai
+HDFC Securities,3.4,Financial Services,1.7k Reviews,6k Salaries,Mumbai
+BT Business,3.9,Telecom,1.7k Reviews,9k Salaries,Gurugram
+Isgec Heavy Engineering,3.8,Engineering & Construction,1.7k Reviews,6.8k Salaries,Noida
+Vedantu,3.3,EdTech,1.7k Reviews,8.7k Salaries,Bengaluru
+Pine Labs,3.3,FinTech,1.7k Reviews,7.3k Salaries,Noida
+LivSpace,3.3,Architecture & Interior Design,1.7k Reviews,8k Salaries,Bengaluru
+Bata,3.5,Fashion & Textile,1.7k Reviews,4.1k Salaries,Gurugram
+Adani Green Energy,3.9,Power,1.7k Reviews,5.8k Salaries,Ahmedabad
+Annapurna Finance,3.9,NBFC,1.7k Reviews,3.7k Salaries,Bhubaneswar
+XBP Global,3.2,Internet,1.7k Reviews,7.6k Salaries,Chennai
+Metro Cash & Carry,4.0,Retail,1.7k Reviews,4.8k Salaries,Bengaluru
+Indian Navy,4.6,Defence & Aerospace,1.7k Reviews,3.4k Salaries,Mumbai
+NEC,4.0,IT Services & Consulting,1.7k Reviews,5.5k Salaries,Noida
+BVG India,4.2,Facility Management Services,1.7k Reviews,3.8k Salaries,Pune
+Mother Dairy Fruit & Vegetable,4.1,Food Processing,1.7k Reviews,4.9k Salaries,New Delhi
+Granules India Limited,3.8,Pharma,1.7k Reviews,6.2k Salaries,Hyderabad
+Cavinkare,4.0,FMCG,1.7k Reviews,4.8k Salaries,Chennai
+Sysnet Global Technologies,3.7,IT Services & Consulting,1.7k Reviews,4.1k Salaries,New Delhi
+Provana,3.9,BPO,1.7k Reviews,4k Salaries,Noida
+Medanta the Medicity,4.0,Healthcare,1.7k Reviews,5k Salaries,Gurugram
+FactSet,3.7,Analytics & KPO,1.7k Reviews,10.4k Salaries,Hyderabad
+Orange Business,4.1,IT Services & Consulting,1.7k Reviews,8.9k Salaries,Gurugram
+Caterpillar Inc,4.1,Industrial Machinery,1.6k Reviews,10.6k Salaries,Chennai
+Frankfinn Institute of Air Hostess Training,3.9,Education & Training,1.6k Reviews,3.2k Salaries,Gurugram
+Cushman & Wakefield,4.2,Real Estate,1.6k Reviews,6.3k Salaries,Gurugram
+Rungta Mines,4.0,Metals & Mining,1.6k Reviews,5.2k Salaries,Chaibasa
+TTEC India,3.7,BPO,1.6k Reviews,5.3k Salaries,Ahmedabad
+Hitachi Astemo,4.1,Auto Components,1.6k Reviews,6.2k Salaries,Neemrana
+HighRadius,2.6,Software Product,1.6k Reviews,8.7k Salaries,Hyderabad
+Orchids International School,3.8,Education & Training,1.6k Reviews,3.7k Salaries,Bengaluru
+American Broadcasting Company,4.0,Engineering & Construction,1.6k Reviews,33.6k Salaries,Bengaluru
+Yamaha Motor,4.1,Automobile,1.6k Reviews,5.1k Salaries,Chennai
+Rane (Madras),3.9,Auto Components,1.6k Reviews,4.9k Salaries,Chennai
+KONE,4.1,Industrial Machinery,1.6k Reviews,5.6k Salaries,Chennai
+MagicBricks,4.0,Internet,1.6k Reviews,4.5k Salaries,Noida
+JSW Bhushan Power & Steel,4.0,Iron & Steel,1.6k Reviews,5k Salaries,Jharsuguda
+DHL Express,4.1,Logistics,1.6k Reviews,6.1k Salaries,Mumbai
+L.G.Balakrishnan & Bros,3.5,Auto Components,1.6k Reviews,5.7k Salaries,Coimbatore
+BA Continuum,3.9,IT Services & Consulting,1.6k Reviews,10.2k Salaries,Hyderabad
+Johnson & Johnson,4.0,Healthcare,1.6k Reviews,5.8k Salaries,Mumbai
+Procter & Gamble,4.0,FMCG,1.6k Reviews,5.7k Salaries,Mumbai
+Wipro Enterprises Ltd,3.8,FMCG,1.6k Reviews,8k Salaries,Bengaluru
+Compass Group Support Services,4.0,Facility Management Services,1.6k Reviews,5.4k Salaries,Bengaluru
+Tata Play,4.0,Broadcasting,1.6k Reviews,4.7k Salaries,Mumbai
+Vardhman Fabrics,4.0,Fashion & Textile,1.6k Reviews,5.2k Salaries,Baddi
+Matrimony.com,4.0,Internet,1.6k Reviews,4.4k Salaries,Chennai
+CG Power and Industrial Solutions,3.8,Electrical Equipment,1.6k Reviews,6.4k Salaries,Bhopal
+Patanjali Foods,3.8,FMCG,1.6k Reviews,4.3k Salaries,Haridwar
+Chegg,4.1,EdTech,1.6k Reviews,4k Salaries,New Delhi
+Hero Motors Company,3.9,Automobile,1.6k Reviews,6.1k Salaries,Ghaziabad
+Arvind Group,4.0,Fashion & Textile,1.6k Reviews,5.2k Salaries,Ahmedabad
+Belrise Industries,3.7,Auto Components,1.6k Reviews,6.1k Salaries,Pune
+Clover Infotech,3.4,IT Services & Consulting,1.6k Reviews,11.6k Salaries,Mumbai
+CMA CGM,3.9,Ports & Shipping,1.6k Reviews,8.1k Salaries,Chennai
+Suryoday Small Finance Bank,4.0,Banking,1.6k Reviews,4.5k Salaries,Mumbai
+HERE Technologies,3.8,IT Services & Consulting,1.6k Reviews,7.6k Salaries,Mumbai
+Krishna Maruti,3.8,Auto Components,1.6k Reviews,5.1k Salaries,Gurugram
+IIFL SAMASTA,3.7,NBFC,1.6k Reviews,3.1k Salaries,Bengaluru
+PharmEasy,3.7,Internet,1.6k Reviews,6.5k Salaries,Bengaluru
+ReNew,4.3,Power,1.6k Reviews,6.1k Salaries,Gurugram
+Marico,3.8,FMCG,1.6k Reviews,5.4k Salaries,Mumbai
+Tata 1mg,3.6,Internet,1.6k Reviews,6.9k Salaries,Gurugram
+Coronis Ajuba Solutions,3.9,BPO,1.6k Reviews,5.7k Salaries,Chennai
+Toyota Kirloskar Motor,4.3,Automobile,1.6k Reviews,4.5k Salaries,Bengaluru
+Honda,4.1,Automobile,1.6k Reviews,4k Salaries,Gurugram
+Wockhardt,3.8,Pharma,1.6k Reviews,4.1k Salaries,Chhatrapati Sambhajinagar
+Welspun Living Limited,3.9,Fashion & Textile,1.6k Reviews,5k Salaries,Anjar
+NielsenIQ,3.5,Analytics & KPO,1.6k Reviews,9.5k Salaries,Chennai
+Goldman Sachs,3.3,Financial Services,1.6k Reviews,19.7k Salaries,Bengaluru
+Dixon Technologies,3.9,Electronics Manufacturing,1.6k Reviews,5.7k Salaries,Noida
+Emami,3.8,FMCG,1.6k Reviews,5.1k Salaries,Kolkata
+Satin Creditcare Network,3.9,NBFC,1.6k Reviews,3.1k Salaries,Gurugram
+Godrej Industries Group,3.9,Real Estate,1.6k Reviews,3k Salaries,Mumbai
+Veritas Finance,4.3,NBFC,1.6k Reviews,2.1k Salaries,Chennai
+Teva Pharmaceuticals,3.9,Pharma,1.5k Reviews,5.6k Salaries,Bengaluru
+Shriram Life Insurance,3.5,Insurance,1.5k Reviews,4.7k Salaries,Hyderabad
+ZF Commercial Vehicle Control Systems,3.8,Auto Components,1.5k Reviews,3.8k Salaries,Chennai
+iOPEX Technologies,3.2,IT Services & Consulting,1.5k Reviews,5.8k Salaries,Chennai
+Mercer,3.6,Management Consulting,1.5k Reviews,9.8k Salaries,New Delhi
+KFC,4.0,Hospitality,1.5k Reviews,3k Salaries,New Delhi
+Supreme Industries,4.1,Petrochemicals,1.5k Reviews,5.6k Salaries,Gwalior
+Sanofi,4.0,Pharma,1.5k Reviews,5.6k Salaries,Hyderabad
+Cemindia Projects,4.2,Engineering & Construction,1.5k Reviews,2.7k Salaries,Mumbai
+IFB,3.6,Consumer Electronics & Appliances,1.5k Reviews,5.3k Salaries,Bengaluru
+Relaxo Footwear,4.0,Fashion & Textile,1.5k Reviews,4.6k Salaries,New Delhi
+Asahi India Glass,3.8,Auto Components,1.5k Reviews,5.1k Salaries,Chennai
+Amul India,4.0,Food Processing,1.5k Reviews,4.1k Salaries,Ahmedabad
+Urban Company,3.3,Internet,1.5k Reviews,6.6k Salaries,Gurugram
+Marriott International,4.1,Hospitality,1.5k Reviews,4.7k Salaries,Bengaluru
+Broadridge Financial Solutions,3.8,FinTech,1.5k Reviews,10.7k Salaries,Hyderabad
+Bajaj Capital,3.6,Financial Services,1.5k Reviews,3.8k Salaries,New Delhi
+Dainik Bhaskar Group,4.2,Printing & Publishing,1.5k Reviews,4.3k Salaries,Bhopal
+IndiaFirst Life Insurance,3.8,Insurance,1.5k Reviews,3.7k Salaries,Mumbai
+Suguna Foods,4.0,Food Processing,1.5k Reviews,4.1k Salaries,Coimbatore
+HCL Infosystems,4.0,IT Services & Consulting,1.5k Reviews,7.2k Salaries,Noida
+Gujarat Fluorochemicals,3.9,Chemicals,1.5k Reviews,6.6k Salaries,Bharuch
+Nayara Energy,4.1,Oil & Gas,1.5k Reviews,6k Salaries,Jamnagar
+Kotak Mahindra Prime,3.9,NBFC,1.5k Reviews,5k Salaries,Mumbai
+Muthoot Microfin,4.2,NBFC,1.5k Reviews,2.4k Salaries,Kochi
+Tesco,3.6,Retail,1.5k Reviews,8.8k Salaries,Bengaluru
+XL Dynamics,3.6,IT Services & Consulting,1.5k Reviews,3.6k Salaries,Mumbai
+Hinduja Leyland Finance,3.9,NBFC,1.5k Reviews,2.8k Salaries,Chennai
+Bisleri,4.2,Beverage,1.5k Reviews,4.3k Salaries,Mumbai
+SHYAM METALICS AND ENERGY,3.4,Metals & Mining,1.5k Reviews,4.6k Salaries,Sambalpur
+Oracle Cerner,3.4,Software Product,1.5k Reviews,10.1k Salaries,Bengaluru
+Patra India,3.6,BPO,1.5k Reviews,6k Salaries,Visakhapatnam
+Lumax Industries,3.9,Auto Components,1.5k Reviews,5.6k Salaries,Gurugram
+Steel Strips Wheels,3.7,Auto Components,1.5k Reviews,5.4k Salaries,Chennai
+Evalueserve,3.1,Analytics & KPO,1.5k Reviews,10.2k Salaries,Gurugram
+GMR Group,4.0,Engineering & Construction,1.5k Reviews,4.5k Salaries,New Delhi
+Piramal Pharma,3.9,Pharma,1.5k Reviews,6.4k Salaries,Mumbai
+Karur Vysya Bank,3.5,Banking,1.5k Reviews,4.6k Salaries,Chennai
+Max Fashion,4.0,Retail,1.5k Reviews,3.5k Salaries,Bengaluru
+GE VERNOVA,4.2,Power,1.5k Reviews,5.3k Salaries,Bengaluru
+Ashoka Buildcon,4.1,Engineering & Construction,1.5k Reviews,4.2k Salaries,Nashik
+Canara Bank,3.6,Banking,1.5k Reviews,3.9k Salaries,Bengaluru
+SAI Life Sciences,3.9,Clinical Research,1.5k Reviews,5.9k Salaries,Hyderabad
+Health Care Global Enterprises,4.2,Healthcare,1.5k Reviews,2.8k Salaries,Bengaluru
+Tata Consumer Products,3.5,FMCG,1.5k Reviews,5.7k Salaries,Bengaluru
+QualityKiosk Technologies,3.2,IT Services & Consulting,1.4k Reviews,11k Salaries,Mumbai
+Page Industries,4.1,Fashion & Textile,1.4k Reviews,4.6k Salaries,Bengaluru
+Honeywell Technology Solutions,3.7,Industrial Automation,1.4k Reviews,11.4k Salaries,Bengaluru
+Taurus BPO Services,4.1,BPO,1.4k Reviews,947 Salaries,Pune
+Tanishq,4.1,Jewellery,1.4k Reviews,3.1k Salaries,Kolkata
+Tata Group,4.2,IT Services & Consulting,1.4k Reviews,5.4k Salaries,Mumbai
+Tata AutoComp Systems,3.8,Auto Components,1.4k Reviews,6.6k Salaries,Pune
+Wheelseye Technology,3.4,Internet,1.4k Reviews,3.8k Salaries,Gurugram
+Gland Pharma,4.0,Pharma,1.4k Reviews,6k Salaries,Hyderabad
+ISS Facility Services,4.0,Facility Management Services,1.4k Reviews,4.1k Salaries,Mumbai
+Sonata Software,3.4,IT Services & Consulting,1.4k Reviews,11.1k Salaries,Bengaluru
+Oberoi Group of Hotels,4.1,Hospitality,1.4k Reviews,3.8k Salaries,New Delhi
+Devyani International,3.8,Hospitality,1.4k Reviews,3.4k Salaries,New Delhi
+Aon,3.8,Management Consulting,1.4k Reviews,6k Salaries,Gurugram
+Indoco Remedies,3.5,Pharma,1.4k Reviews,5.6k Salaries,Mumbai
+Daimler India Commercial Vehicles,3.9,Automobile,1.4k Reviews,6.6k Salaries,Chennai
+NIIT,3.5,Education & Training,1.4k Reviews,6k Salaries,Gurugram
+Airtel Payments Bank,3.8,Banking,1.4k Reviews,4.9k Salaries,Gurugram
+Acmegrade,3.9,EdTech,1.4k Reviews,264 Salaries,Bengaluru
+V5 Global Services,3.9,Recruitment,1.4k Reviews,3.6k Salaries,New Delhi
+Narayana Educational Society,3.5,Education & Training,1.4k Reviews,4.1k Salaries,Hyderabad
+Hyatt Regency,4.0,Hospitality,1.4k Reviews,3k Salaries,New Delhi
+Bharat Forge,3.7,Auto Components,1.4k Reviews,6.3k Salaries,Pune
+Amneal Pharmaceuticals,4.2,Pharma,1.4k Reviews,6k Salaries,Ahmedabad
+Apco Infratech,3.8,Engineering & Construction,1.4k Reviews,4.3k Salaries,Lucknow
+Heritage Foods,4.0,Food Processing,1.4k Reviews,3.7k Salaries,Hyderabad
+Agilus Diagnostics,4.1,Healthcare,1.4k Reviews,3.3k Salaries,Mumbai
+Acuity Analytics,3.2,Analytics & KPO,1.4k Reviews,11.6k Salaries,Bengaluru
+Sony,4.1,Consumer Electronics & Appliances,1.4k Reviews,4.6k Salaries,New Delhi
+PNB Housing Finance,3.8,NBFC,1.4k Reviews,4.5k Salaries,New Delhi
+Happiest Minds Technologies,3.4,IT Services & Consulting,1.4k Reviews,12.2k Salaries,Bengaluru
+SBFC Finance,3.8,NBFC,1.4k Reviews,2.8k Salaries,Mumbai
+Apexon,3.3,IT Services & Consulting,1.4k Reviews,9.3k Salaries,Bengaluru
+IDC Technologies,3.1,IT Services & Consulting,1.4k Reviews,6.9k Salaries,Noida
+Tieto,4.2,IT Services & Consulting,1.4k Reviews,9.5k Salaries,Pune
+AB InBev India,3.3,Beverage,1.4k Reviews,7.7k Salaries,Bengaluru
+Morningstar,3.7,Financial Services,1.4k Reviews,9.8k Salaries,Mumbai
+Jaquar,4.0,Building Material,1.4k Reviews,5.1k Salaries,Gurugram
+CIE Automotive India Limited (Formerly known as Mahindra CIE Automotive Limited),3.6,Auto Components,1.4k Reviews,4.8k Salaries,Pune
+J. Kumar Infraprojects,4.1,Engineering & Construction,1.4k Reviews,4.4k Salaries,Mumbai
+The Muthoot Group,3.6,Financial Services,1.4k Reviews,3.8k Salaries,New Delhi
+TCS iON,3.8,IT Services & Consulting,1.4k Reviews,4k Salaries,Chennai
+Amara Raja Energy & Mobility,4.0,Auto Components,1.4k Reviews,4k Salaries,Tirupati
+Aumovio,3.8,Auto Components,1.4k Reviews,9.2k Salaries,Bengaluru
+Xiaomi,3.8,Consumer Electronics & Appliances,1.4k Reviews,5.7k Salaries,Bengaluru
+Indegene,3.3,Analytics & KPO,1.4k Reviews,9.4k Salaries,Bengaluru
+Indegene,3.3,Analytics & KPO,1.4k Reviews,9.4k Salaries,Bengaluru
+Altimetrik,3.6,IT Services & Consulting,1.4k Reviews,11.4k Salaries,Bengaluru
+VLCC,3.3,Beauty & Personal Care,1.4k Reviews,3.3k Salaries,New Delhi
+Vfs Global Services,3.4,IT Services & Consulting,1.4k Reviews,4.3k Salaries,Mumbai
+Slk Software Services,3.2,IT Services & Consulting,1.4k Reviews,9.3k Salaries,Bengaluru
+Unisys,3.5,IT Services & Consulting,1.4k Reviews,10k Salaries,Bengaluru
+Adobe,3.7,Software Product,1.4k Reviews,12.5k Salaries,Bengaluru
+Sansera Engineering,4.0,Auto Components,1.4k Reviews,5.5k Salaries,Bengaluru
+FedEx Express,4.0,Logistics,1.4k Reviews,5k Salaries,Mumbai
+Infogain,3.5,IT Services & Consulting,1.4k Reviews,11k Salaries,Bengaluru
+Oracle Financial Services Software,3.4,Software Product,1.4k Reviews,11k Salaries,Bengaluru
+Faurecia,3.9,Auto Components,1.4k Reviews,6.1k Salaries,Pune
+AtkinsRealis,3.7,Engineering & Construction,1.4k Reviews,5.8k Salaries,Bengaluru
+Sheenlac Paints,4.2,Chemicals,1.4k Reviews,1.7k Salaries,Chennai
+DCM Shriram,4.1,Chemicals,1.4k Reviews,4.7k Salaries,Bharuch
+Kantar,3.5,Analytics & KPO,1.3k Reviews,6.6k Salaries,Bengaluru
+Nykaa,3.4,Internet,1.4k Reviews,6.6k Salaries,Mumbai
+Paytm Payments Bank,3.8,Banking,1.3k Reviews,5.7k Salaries,Noida
+Aforeserve,3.4,IT Services & Consulting,1.3k Reviews,3.6k Salaries,Mumbai
+Sharekhan,3.7,Financial Services,1.3k Reviews,5.1k Salaries,Mumbai
+Eaton,4.0,Electronics Manufacturing,1.3k Reviews,7.8k Salaries,Pune
+MedPlus,3.6,Retail,1.3k Reviews,4.2k Salaries,Hyderabad
+Labmentix,4.5,Bengaluru +31 other locations,1.4k Reviews,30 Salaries,
+EOSGlobe,2.9,BPO,1.3k Reviews,3.8k Salaries,Mumbai
+Amity University,3.6,Education & Training,1.3k Reviews,5.2k Salaries,Noida
+Worley,4.1,Engineering & Construction,1.3k Reviews,7.2k Salaries,Mumbai
+DEXIT Global,3.5,IT Services & Consulting,1.3k Reviews,6k Salaries,Mumbai
+Bajaj Housing Finance,3.6,NBFC,1.3k Reviews,5.9k Salaries,Pune
+Fino Payments Bank,3.9,Banking,1.3k Reviews,3.9k Salaries,Mumbai
+Chetu,3.5,Software Product,1.3k Reviews,7.3k Salaries,Noida
+JioMart,3.9,Retail,1.3k Reviews,4.2k Salaries,Mumbai
+Bharat FIH,3.7,Electronics Manufacturing,1.3k Reviews,5.4k Salaries,Chennai
+TEKsystems,3.2,IT Services & Consulting,1.3k Reviews,10.5k Salaries,Bengaluru
+VOIS,3.8,IT Services & Consulting,1.3k Reviews,7.8k Salaries,Pune
+Fusion Finance,3.9,NBFC,1.4k Reviews,3k Salaries,New Delhi
+Big Bazaar,4.3,Retail,1.3k Reviews,2.2k Salaries,New Delhi
+TÜV SÜD,3.9,"Testing, Inspection and Certification (TIC)",1.3k Reviews,3.7k Salaries,Bengaluru
+City Union Bank,3.0,Banking,1.3k Reviews,5.7k Salaries,Chennai
+iMerit,3.2,IT Services & Consulting,1.3k Reviews,5.3k Salaries,Kolkata
+Unichem Laboratories,3.6,Pharma,1.3k Reviews,5.1k Salaries,Ghaziabad
+Novo Nordisk,3.6,Pharma,1.3k Reviews,6.3k Salaries,Bengaluru
+Collabera Talent Solutions,3.4,Recruitment,1.3k Reviews,6.9k Salaries,Bengaluru
+Iffco Tokio General Insurance Co.,3.8,Insurance,1.3k Reviews,3.9k Salaries,Gurugram
+Sunknowledge Services,3.5,BPO,1.3k Reviews,3.6k Salaries,Kolkata
+GE,4.1,Defence & Aerospace,1.3k Reviews,7.4k Salaries,Bengaluru
+Rashmi Metaliks,3.2,Iron & Steel,1.3k Reviews,4.6k Salaries,Kharagpur
+JSW Cement,4.0,Building Material,1.3k Reviews,4.3k Salaries,Mumbai
+Burger King,3.9,Hospitality,1.3k Reviews,3.5k Salaries,New Delhi
+Incedo,3.0,IT Services & Consulting,1.3k Reviews,10k Salaries,Gurugram
+Aptara,3.1,Content Development,1.3k Reviews,6.3k Salaries,Noida
+FDC,3.7,Pharma,1.3k Reviews,3.6k Salaries,Mumbai
+Hindware Limited,3.9,Building Material,1.3k Reviews,4.6k Salaries,Hyderabad
+Aerial Telecom Solutions,4.1,Telecom,1.3k Reviews,2.1k Salaries,Sahibzada Ajit Singh Nagar
+Citco,3.1,Management Consulting,1.3k Reviews,9k Salaries,Pune
+ZF Steering Gear,3.7,Auto Components,1.3k Reviews,7.1k Salaries,Pune
+TE Connectivity,4.1,Electronics Manufacturing,1.3k Reviews,7.2k Salaries,Bengaluru
+ManpowerGroup,3.6,Recruitment,1.3k Reviews,5k Salaries,Bengaluru
+Spicejet,3.4,Aviation,1.3k Reviews,5.2k Salaries,New Delhi
+Bluestock ™,4.5,FinTech,1.3k Reviews,57 Salaries,Pune
+VIBGYOR Group of Schools,3.5,Education & Training,1.3k Reviews,4.1k Salaries,Bengaluru
+Shubham Housing Development Finance,3.9,NBFC,1.3k Reviews,3k Salaries,New Delhi
+CreditAccess Grameen,3.9,NBFC,1.3k Reviews,2.5k Salaries,Bengaluru
+The Ramco Cements,4.1,Building Material,1.3k Reviews,4.1k Salaries,Chennai
+Atul,3.9,Chemicals,1.3k Reviews,5.2k Salaries,Valsad
+Nippon Paint India,4.0,Chemicals,1.3k Reviews,4k Salaries,Chennai
+Brillio,3.4,IT Services & Consulting,1.3k Reviews,10.3k Salaries,Bengaluru
+RBL FinServe,3.9,Financial Services,1.3k Reviews,3k Salaries,Mumbai
+Fabindia,3.8,Retail,1.3k Reviews,4k Salaries,New Delhi
+Cinépolis,3.8,Media & Entertainment,1.3k Reviews,2.9k Salaries,New Delhi
+Grant Thornton,3.4,Accounting & Auditing,1.3k Reviews,11.2k Salaries,Bengaluru
+GEP Worldwide,3.6,IT Services & Consulting,1.3k Reviews,9.1k Salaries,Mumbai
+Hatsun Agro Product,3.8,Food Processing,1.3k Reviews,4.6k Salaries,Chennai
+Hindustan Construction Company,4.2,Engineering & Construction,1.3k Reviews,3.2k Salaries,Mumbai
+CenturyPly,3.8,Furniture & Furnishing,1.3k Reviews,4.2k Salaries,Kolkata
+Pantaloons,4.1,Retail,1.3k Reviews,2.9k Salaries,Mumbai
+mPokket,4.4,NBFC,1.3k Reviews,1.5k Salaries,Kolkata
+Punjab National Bank,3.8,Banking,1.3k Reviews,2.9k Salaries,New Delhi
+INDIUM,4.0,IT Services & Consulting,1.3k Reviews,6.8k Salaries,Chennai
+Mondelez International,4.1,Food Processing,1.3k Reviews,4.6k Salaries,Mumbai
+OM Logistics,3.9,Logistics,1.3k Reviews,3.6k Salaries,New Delhi
+R Systems International,3.5,IT Services & Consulting,1.3k Reviews,7.4k Salaries,Noida
+Sigma Electric Manufacturing Corporation,4.0,Industrial Machinery,1.3k Reviews,2.9k Salaries,Pune
+AGS Transact Technologies,2.8,FinTech,1.3k Reviews,3.9k Salaries,Mumbai
+Baroda Global Shared Services,3.8,BPO,1.3k Reviews,2.9k Salaries,Gandhinagar
+More Supermarket,3.7,Retail,1.3k Reviews,3.8k Salaries,Bengaluru
+Luminous Power Technologies,4.1,Consumer Electronics & Appliances,1.3k Reviews,3.9k Salaries,Gurugram
+Panasonic,4.0,Consumer Electronics & Appliances,1.3k Reviews,4.8k Salaries,Gurugram
+Decathlon,3.7,Retail,1.3k Reviews,4.1k Salaries,Bengaluru
+Troikaa Pharmaceuticals,4.1,Pharma,1.2k Reviews,3.7k Salaries,Ahmedabad
+Dell EMC,3.8,IT Services & Consulting,1.2k Reviews,8.8k Salaries,Bengaluru
+Jakson Group,4.1,Power,1.2k Reviews,3.8k Salaries,Noida
+OpenText Technologies,3.4,Software Product,1.2k Reviews,11.6k Salaries,Bengaluru
+Vestas,4.1,Power,1.2k Reviews,5.2k Salaries,Chennai
+Automotive Manufacturers,3.9,Automobile,1.2k Reviews,5.1k Salaries,Hyderabad
+Ion Exchange India,3.8,Waste Management,1.2k Reviews,5k Salaries,Mumbai
+Tenneco,3.6,Auto Components,1.2k Reviews,5.1k Salaries,Pune
+Samsung Research,3.1,IT Services & Consulting,1.2k Reviews,9.4k Salaries,Bengaluru
+ICICI Prudential Mutual Fund,3.9,Financial Services,1.2k Reviews,5.5k Salaries,Mumbai
+Centre for Development of Advanced Computing,3.7,IT Services & Consulting,1.2k Reviews,6.7k Salaries,Pune
+ANZ Banking Group,3.8,Banking,1.2k Reviews,8.1k Salaries,Bengaluru
+Jindal X,3.6,BPO,1.2k Reviews,2.8k Salaries,New Delhi
+Electronics Corporation of India Limited,4.2,Electronics Manufacturing,1.2k Reviews,3.1k Salaries,Hyderabad
+Globant,3.4,IT Services & Consulting,1.2k Reviews,9.9k Salaries,Pune
+SKF,4.0,Auto Components,1.2k Reviews,4.5k Salaries,Pune
+Viraj Profiles,3.9,Iron & Steel,1.2k Reviews,4.5k Salaries,Mumbai
+Astral Pipe,4.0,Building Material,1.3k Reviews,4k Salaries,Ahmedabad
+SK Finance Limited,3.8,NBFC,1.2k Reviews,3.3k Salaries,Jaipur
+Rupeek,4.1,FinTech,1.2k Reviews,3.3k Salaries,Bengaluru
+Godrej Consumer Products,4.0,FMCG,1.2k Reviews,4.7k Salaries,Mumbai
+PNC Infratech,3.8,Engineering & Construction,1.2k Reviews,3.5k Salaries,Agra
+Oil And Natural Gas Corporation,4.4,Oil & Gas,1.2k Reviews,3k Salaries,Mumbai
+Fresenius Kabi,4.0,Pharma,1.2k Reviews,4k Salaries,Pune
+NetAmbit,3.9,BPO,1.2k Reviews,3k Salaries,Noida
+Intertek,3.7,"Testing, Inspection and Certification (TIC)",1.2k Reviews,3.9k Salaries,New Delhi
+T-Systems ICT India,3.8,IT Services & Consulting,1.2k Reviews,8.4k Salaries,Pune
+iSON Xperiences,3.3,BPO,1.2k Reviews,3.3k Salaries,Chennai
+Synchrony,4.3,Financial Services,1.2k Reviews,5.4k Salaries,Hyderabad
+Apex Group,2.7,Financial Services,1.2k Reviews,7.7k Salaries,Pune
+Shriram Pistons & Rings,4.1,Auto Components,1.2k Reviews,4.5k Salaries,Bhiwadi
+Mu Sigma,2.4,Analytics & KPO,1.2k Reviews,6.7k Salaries,Bengaluru
+Royal Migration Solutions,4.9,Other,1.2k Reviews,5 Salaries,Dubai
+Aarvee Associates,3.7,Engineering & Construction,1.2k Reviews,3.4k Salaries,Hyderabad
+AIIMS,4.1,Education & Training,1.2k Reviews,4.4k Salaries,New Delhi
+Spandana Sphoorty Financial,3.7,NBFC,1.2k Reviews,2.3k Salaries,Hyderabad
+Zoho,4.2,Software Product,1.2k Reviews,9.3k Salaries,Chennai
+Prodapt,3.5,IT Services & Consulting,1.2k Reviews,9.4k Salaries,Chennai
+H.G. Infra Engineering,4.0,Engineering & Construction,1.2k Reviews,3.1k Salaries,Jaipur
+Qualcomm,3.7,Semiconductors,1.2k Reviews,14.2k Salaries,Hyderabad
+Kalpataru Limited,4.2,Real Estate,1.2k Reviews,4.3k Salaries,Mumbai
+Dassault Systemes,3.8,Software Product,1.2k Reviews,6.9k Salaries,Pune
+PHN Technology,4.3,EdTech,1.2k Reviews,354 Salaries,Pune
+Wind World,4.0,Power,1.2k Reviews,3.2k Salaries,Jaisalmer
+Best Sellers,4.1,Retail,1.2k Reviews,3k Salaries,Mumbai
+KIMS Hospital,3.8,Healthcare,1.2k Reviews,3.5k Salaries,Hyderabad
+Parexel International,3.8,Clinical Research,1.2k Reviews,5.9k Salaries,Hyderabad
+DENSO,4.1,Auto Components,1.2k Reviews,3.7k Salaries,Gurugram
+Rockman Industries,3.9,Auto Components,1.2k Reviews,3.8k Salaries,Haridwar
+Leadec India,4.1,Facility Management Services,1.2k Reviews,3.5k Salaries,Pune
+EbixCash Limited,3.7,Software Product,1.2k Reviews,5.1k Salaries,Noida
+FOCUS EDUMATICS,2.9,EdTech,1.2k Reviews,3.1k Salaries,Coimbatore
+Kirloskar Oil Engines,4.1,Industrial Machinery,1.2k Reviews,4k Salaries,Pune
+Fidelity Investments,4.1,Financial Services,1.2k Reviews,7.9k Salaries,Bengaluru
+Fidelity National Financial,3.8,Financial Services,1.2k Reviews,6.2k Salaries,Bengaluru
+ExcelR,3.7,Education & Training,1.2k Reviews,1k Salaries,Bengaluru
+Diageo,3.8,Beverage,1.2k Reviews,6.2k Salaries,Bengaluru
+JK Lakshmi Cement,3.7,Building Material,1.2k Reviews,3.7k Salaries,New Delhi
+DLF,3.9,Real Estate,1.2k Reviews,4.6k Salaries,Gurugram
+Intel,4.1,Semiconductors,1.2k Reviews,8.9k Salaries,Bengaluru
+Ahluwalia Contracts India,4.0,Engineering & Construction,1.2k Reviews,3.5k Salaries,New Delhi
+JTEKT,4.1,Auto Components,1.2k Reviews,4.3k Salaries,Gurugram
+Strides Pharma,3.9,Pharma,1.2k Reviews,4.2k Salaries,Bengaluru
+Colliers India,3.9,Real Estate,1.2k Reviews,4.8k Salaries,Bengaluru
+Barclays Shared Services,3.8,Financial Services,1.2k Reviews,4.8k Salaries,Chennai
+DP World,3.8,Logistics,1.2k Reviews,4.7k Salaries,Mumbai
+ACG Worldwide,3.8,Pharma,1.2k Reviews,3.9k Salaries,Mumbai
+Baazar Retail Private Limited,4.5,Retail,1.2k Reviews,1.5k Salaries,Kolkata
+Xyz Company,3.8,Financial Services,1.1k Reviews,43.7k Salaries,Bengaluru
+The Jaypee Group,3.8,Engineering & Construction,1.1k Reviews,3.3k Salaries,Noida
+Indostar Capital Finance Limited,4.4,NBFC,1.1k Reviews,2k Salaries,Mumbai
+Thyrocare Technologies,3.8,Healthcare,1.1k Reviews,4.3k Salaries,Mumbai
+Electronica Finance,4.1,NBFC,1.1k Reviews,2.8k Salaries,Pune
+Ocwen Financial Solutions,3.9,Financial Services,1.1k Reviews,4.4k Salaries,Bengaluru
+Coca-Cola Company,4.0,Beverage,1.1k Reviews,3.2k Salaries,Bengaluru
+Edelweiss,3.6,Financial Services,1.1k Reviews,5.7k Salaries,Mumbai
+Salesforce,3.9,Software Product,1.1k Reviews,12.8k Salaries,Hyderabad
+Nielsen,3.3,Analytics & KPO,1.1k Reviews,6.4k Salaries,Bengaluru
+Hire In Global,4.9,Recruitment,1.1k Reviews,8 Salaries,Mumbai
+DISH TV,3.4,Broadcasting,1.1k Reviews,3.3k Salaries,Noida
+Johnson Lifts,3.9,Industrial Machinery,1.1k Reviews,3.7k Salaries,Chennai
+PayPal,3.8,FinTech,1.1k Reviews,9.5k Salaries,Bengaluru
+Podar International School,4.1,Education & Training,1.1k Reviews,3.2k Salaries,Mumbai
+Nilkamal,3.6,Furniture & Furnishing,1.1k Reviews,3.6k Salaries,Mumbai
+Innova Solutions,3.3,IT Services & Consulting,1.1k Reviews,7.8k Salaries,Hyderabad
+Apollo Health and Lifestyle Limited,4.3,Healthcare,1.1k Reviews,3.3k Salaries,Hyderabad
+Zetwerk,4.0,Industrial Machinery,1.1k Reviews,3.9k Salaries,Bengaluru
+HFCL Limited,3.7,Telecom,1.1k Reviews,4.1k Salaries,Hyderabad
+Bajaj Motors,3.9,Auto Components,1.1k Reviews,3.3k Salaries,Gurugram
+MDIndia Health Insurance TPA,3.6,Insurance,1.1k Reviews,3.7k Salaries,Pune
+Aparna Constructions and Estates,3.9,Real Estate,1.1k Reviews,3.9k Salaries,Hyderabad
+Schaeffler India,4.0,Auto Components,1.1k Reviews,5.4k Salaries,Vadodara
+CaratLane - A Tata Product,4.0,Jewellery,1.1k Reviews,2.9k Salaries,Chennai
+Federal Bank,3.6,Banking,1.1k Reviews,5.6k Salaries,Mumbai
+Meril,3.5,Medical Equipment,1.1k Reviews,4.7k Salaries,Vapi
+Prism Johnson,3.7,Building Material,1.1k Reviews,4.4k Salaries,Mumbai
+Birla Corporation,4.1,Building Material,1.1k Reviews,3.7k Salaries,Kolkata
+Dhoot Transmission,3.7,Auto Components,1.1k Reviews,3.9k Salaries,Chhatrapati Sambhajinagar
+Sri Chaitanya Techno Schools,3.4,Education & Training,1.1k Reviews,3.4k Salaries,Bengaluru
+Indira IVF Hospital,4.0,Healthcare,1.1k Reviews,2.9k Salaries,Mumbai
+Biocon Biologics,3.7,Biotechnology,1.1k Reviews,6.5k Salaries,Bengaluru
+London Stock Exchange Group,3.7,Financial Services,1.1k Reviews,10.5k Salaries,Bengaluru
+NxtWave,3.4,EdTech,1.1k Reviews,2.9k Salaries,Hyderabad
+Edelweiss Life Insurance,3.7,Insurance,1.1k Reviews,3.7k Salaries,Mumbai
+INDO-MIM,4.0,Metals & Mining,1.1k Reviews,4.2k Salaries,Bengaluru
+Imperial Auto Industries,3.8,Auto Components,1.1k Reviews,4.7k Salaries,Faridabad
+Piaggio,3.6,Automobile,1.1k Reviews,3.8k Salaries,Pune
+Wistron,4.0,Electronics Manufacturing,1.1k Reviews,5.2k Salaries,Bengaluru
+Barbeque Nation,3.9,Hospitality,1.1k Reviews,2.6k Salaries,Bengaluru
+Jacobs Engineering Group,4.1,Engineering & Construction,1.1k Reviews,5k Salaries,Mumbai
+Aptiv,3.4,Auto Components,1.1k Reviews,7.9k Salaries,Bengaluru
+Deccan Fine Chemicals,3.6,Agro Chemicals,1.1k Reviews,5k Salaries,Tuni
+ICON Plc,4.0,Clinical Research,1.1k Reviews,4.3k Salaries,Chennai
+VMware Software,4.4,Software Product,1.1k Reviews,9.1k Salaries,Bengaluru
+Motilal Oswal Home Finance,4.3,NBFC,1.1k Reviews,1.3k Salaries,Mumbai
+Saipem,4.2,Engineering & Construction,1.1k Reviews,3.3k Salaries,Chennai
+Onward Technologies Inc,2.9,IT Services & Consulting,1.1k Reviews,6k Salaries,Pune
+Balkrishna Industries,4.0,Auto Components,1.1k Reviews,4.1k Salaries,Bhuj
+Hyundai Mobis,3.7,Auto Components,1.1k Reviews,5.1k Salaries,Chennai
+Advantmed,4.2,Healthcare,1.1k Reviews,2.6k Salaries,Ahmedabad
+Navitasys India,4.1,Electronics Manufacturing,1.1k Reviews,2.7k Salaries,Bawal
+Kohler,3.7,Building Material,1.1k Reviews,4.8k Salaries,Pune
+Sundaram Finance,4.0,NBFC,1.1k Reviews,2.9k Salaries,Chennai
+Jabil Circuit India,4.0,Electronics Manufacturing,1.1k Reviews,4.2k Salaries,Pune
+Zydus Wellness,4.1,FMCG,1.1k Reviews,2.6k Salaries,Ahmedabad
+Unicharm,4.0,FMCG,1.1k Reviews,2.8k Salaries,Gurugram
+Wonder Home Finance,4.6,NBFC,1.1k Reviews,719 Salaries,Jaipur
+TK Elevator,3.8,Industrial Machinery,1.1k Reviews,4.2k Salaries,Pune
+V2 Retail,3.4,Retail,1.1k Reviews,2.6k Salaries,New Delhi
+Stanza Living,3.0,Internet,1.1k Reviews,3.5k Salaries,Bengaluru
+Incheon Motors,4.7,Automobile,1.1k Reviews,326 Salaries,Thrissur
+Jet Airways,4.6,Aviation,1.1k Reviews,1.9k Salaries,Mumbai
+Asirvad Microfinance,3.8,NBFC,1.1k Reviews,2.2k Salaries,Chennai
+Syngenta,4.2,Agriculture,1.1k Reviews,3.6k Salaries,Pune
+Hikal,3.8,Pharma,1.1k Reviews,4.6k Salaries,Bengaluru
+Kirloskar Brothers,3.8,Industrial Machinery,1.1k Reviews,4.3k Salaries,Pune
+Sri Chaitanya Educational Institutions,3.7,Education & Training,1.1k Reviews,3k Salaries,Hyderabad
+Air India Sats Airport Services,3.6,Aviation,1.1k Reviews,2.4k Salaries,New Delhi
+Godrej Agrovet,3.9,Agriculture,1.1k Reviews,3.4k Salaries,Mumbai
+Adani Ports and SEZ,3.6,Ports & Shipping,1.1k Reviews,4k Salaries,Mundra
+GAIL,4.4,Oil & Gas,1.1k Reviews,3.2k Salaries,New Delhi
+CALIBEHR,3.9,IT Services & Consulting,1.1k Reviews,2.7k Salaries,Mumbai
+Svatantra Microfin,3.9,NBFC,1.1k Reviews,2.1k Salaries,Mumbai
+Tube Investments of India,3.8,Engineering & Construction,1.1k Reviews,3.5k Salaries,Chennai
+Nexa,3.9,Automobile,1.1k Reviews,2.4k Salaries,New Delhi
+MAHLE ANAND Filter Systems,4.0,Auto Components,1.1k Reviews,3.4k Salaries,Pune
+Gmmco,4.0,Industrial Machinery,1.1k Reviews,2.9k Salaries,Chennai
+Vedanta Aluminium,3.8,Metals & Mining,1.1k Reviews,4.5k Salaries,Jharsuguda
+Metropolis Healthcare,3.9,Healthcare,1.1k Reviews,3.6k Salaries,Mumbai
+Klm Axiva Finvest,4.4,NBFC,1k Reviews,753 Salaries,Bengaluru
+MG Motor,3.8,Automobile,1k Reviews,4.7k Salaries,Vadodara
+1point1 Solutions,3.3,BPO,1k Reviews,3.1k Salaries,Bengaluru
+Vayona Energy,4.0,Power,1k Reviews,4.9k Salaries,Bengaluru
+Bajaj Capital Insurance Broking Limited,4.4,Insurance,1k Reviews,1.2k Salaries,New Delhi
+Aarvi Encon,3.9,Recruitment,1k Reviews,2.9k Salaries,Mumbai
+HPCL-Mittal Energy Limited,4.3,Petrochemicals,1k Reviews,4.6k Salaries,Bathinda
+Pernod Ricard,3.5,Beverage,1k Reviews,4.5k Salaries,Gurugram
+Knorr-Bremse,3.3,Auto Components,1k Reviews,4.9k Salaries,Pune
+Power Grid Corporation of India,4.3,Power,1k Reviews,2k Salaries,Gurugram
+Spencer's Retail,3.8,Retail,1k Reviews,2.8k Salaries,Kolkata
+Zf Rane Automotive,3.9,Auto Components,1k Reviews,3.9k Salaries,Chennai
+TKIL,4.1,Industrial Machinery,1k Reviews,4.4k Salaries,Pune
+Nippon Life India Asset Management,4.6,Financial Services,1k Reviews,1.5k Salaries,Mumbai
+TÜV NORD,3.7,"Testing, Inspection and Certification (TIC)",1k Reviews,4k Salaries,Pune
+Bharat Sanchar Nigam,3.9,Telecom,1k Reviews,2.5k Salaries,Bengaluru
+Northcorp Software,4.8,IT Services & Consulting,1k Reviews,212 Salaries,Gurugram
+Kinara Capital,4.2,NBFC,1k Reviews,2.2k Salaries,Bengaluru
+Dana Anand,4.0,Auto Components,1k Reviews,2.9k Salaries,Pune
+Thermo Fisher Scientific,3.7,Biotechnology,1k Reviews,6.4k Salaries,Bengaluru
+GlobalData,3.4,Analytics & KPO,1k Reviews,5.7k Salaries,Hyderabad
+Tata Capital Housing Finance,4.0,NBFC,1k Reviews,3.1k Salaries,Mumbai
+Aspire Systems,3.8,IT Services & Consulting,1k Reviews,9.6k Salaries,Chennai
+Hindustan Zinc,3.8,Metals & Mining,1k Reviews,4.3k Salaries,Udaipur
+Greenko Group,3.9,Power,1k Reviews,3.5k Salaries,Hyderabad
+Ceasefire Industries,3.1,Industrial Machinery,1k Reviews,2.4k Salaries,New Delhi
+ValueMomentum,3.2,IT Services & Consulting,1k Reviews,8.7k Salaries,Hyderabad
+Wheels,3.9,Auto Components,1k Reviews,5k Salaries,Chennai
+SYSKA LED Lights,2.9,Consumer Electronics & Appliances,1k Reviews,2.5k Salaries,Pune
+Amara Raja Group,4.1,Auto Components,1k Reviews,3.5k Salaries,Tirupati
+Gharda Chemicals Limited,3.9,Agro Chemicals,1k Reviews,4.5k Salaries,Mumbai
+Sahara India Pariwar,3.8,Broadcasting,1k Reviews,2.5k Salaries,Lucknow
+Netcracker Technology,3.0,IT Services & Consulting,1k Reviews,9.1k Salaries,Hyderabad
+BirlaNu,3.9,Building Material,1k Reviews,2.8k Salaries,Hyderabad
+Otis Elevator,4.1,Industrial Machinery,1k Reviews,3.9k Salaries,Bengaluru
+Lakshmi Machine Works,3.8,Industrial Machinery,1k Reviews,4.2k Salaries,Coimbatore
+iQor Global Services,3.3,BPO,1k Reviews,2.5k Salaries,Noida
+IIFL Home Finance,3.8,NBFC,1.1k Reviews,2.8k Salaries,Gurugram
+Vistaar Finance,3.9,NBFC,1k Reviews,1.9k Salaries,Bengaluru
+Crompton Greaves Consumer Electricals,3.7,Consumer Electronics & Appliances,1k Reviews,3.7k Salaries,Mumbai
+Allianz Technology,4.0,IT Services & Consulting,1k Reviews,6.7k Salaries,Pune
+Hitachi Energy,4.1,Power,1k Reviews,7.1k Salaries,Chennai
+Fractal Analytics,4.0,Analytics & KPO,1k Reviews,10.3k Salaries,Bengaluru
+Uber,4.1,Internet,1k Reviews,8.1k Salaries,Hyderabad
+Temenos,3.2,Software Product,1k Reviews,8.9k Salaries,Chennai
+Vertiv,3.9,Electronics Manufacturing,1k Reviews,4.3k Salaries,Pune
+Encora,3.4,IT Services & Consulting,1k Reviews,7.9k Salaries,Bengaluru
+Suzuki Motorcycle,4.0,Automobile,1k Reviews,3.8k Salaries,Gurugram
+SitusAMC,3.3,Financial Services,1k Reviews,5.3k Salaries,Bengaluru
+NBC Bearings,3.9,Auto Components,999 Reviews,3.6k Salaries,Jaipur
+Lemon Tree Hotels,4.0,Hospitality,998 Reviews,2.8k Salaries,New Delhi
+Malabar Gold and Diamonds,4.0,Jewellery,999 Reviews,2.5k Salaries,Hyderabad
+GVPR Engineers,3.7,Engineering & Construction,997 Reviews,3k Salaries,Hyderabad
+IB Group,3.8,Food Processing,998 Reviews,3.2k Salaries,Rajnandgaon
+TradeIndia (Infocom Network Private Limited),3.4,Internet,997 Reviews,4.3k Salaries,New Delhi
+MakeMyTrip,3.5,Internet,997 Reviews,7.2k Salaries,Gurugram
+Shyam Steel Group,3.5,Iron & Steel,996 Reviews,3.5k Salaries,Kolkata
+ALLEN Career Institute,3.8,Education & Training,996 Reviews,4.1k Salaries,Kota
+Visionet Systems,3.3,IT Services & Consulting,994 Reviews,5.9k Salaries,Bengaluru
+SLMG Beverages,3.9,Beverage,992 Reviews,3.1k Salaries,Lucknow
+Perfetti Van Melle,4.2,FMCG,992 Reviews,2.6k Salaries,Gurugram
+Westside,3.8,Retail,990 Reviews,2.2k Salaries,Mumbai
+Hinduja Housing Finance,3.7,NBFC,990 Reviews,2.6k Salaries,New Delhi
+Syrma SGS Technologies,4.0,Electronics Manufacturing,988 Reviews,3.3k Salaries,Chennai
+eClinicalWorks,3.6,Software Product,988 Reviews,4.9k Salaries,Mumbai
+Secure Meters,3.9,Electronics Manufacturing,986 Reviews,4.4k Salaries,Udaipur
+CarDekho Group,3.7,Internet,986 Reviews,5k Salaries,Gurugram
+Hitachi Payment Services,3.6,FinTech,985 Reviews,3.3k Salaries,Mumbai
+AstraZeneca,3.9,Pharma,985 Reviews,7.1k Salaries,Chennai
+Bounteous x Accolite,3.2,IT Services & Consulting,985 Reviews,7.9k Salaries,Bengaluru
+United Breweries,3.3,Beverage,984 Reviews,3.3k Salaries,Bengaluru
+Atlas Copco,4.1,Industrial Machinery,984 Reviews,5.1k Salaries,Pune
+JW Marriott,4.2,Hospitality,983 Reviews,2k Salaries,Mumbai
+Pristyn Care,3.2,Internet,981 Reviews,4.1k Salaries,Gurugram
+Colgate Palmolive,4.0,FMCG,988 Reviews,4.3k Salaries,Mumbai
+Mastek,3.6,IT Services & Consulting,980 Reviews,6.5k Salaries,Mumbai
+Fortrea Development India Private Limited,3.9,Clinical Research,981 Reviews,4.9k Salaries,Bengaluru
+QX Global Group,3.1,BPO,980 Reviews,4.2k Salaries,Ahmedabad
+Thomas Cook,4.0,Travel & Tourism,979 Reviews,3.7k Salaries,Mumbai
+Tata Cummins,4.4,Auto Components,980 Reviews,1.3k Salaries,Jamshedpur
+Innodata India Private Limited,3.5,IT Services & Consulting,979 Reviews,2.6k Salaries,Noida
+ALTEN,3.6,IT Services & Consulting,976 Reviews,5.9k Salaries,Bengaluru
+Comviva Technology,2.9,Software Product,976 Reviews,6k Salaries,Gurugram
