@@ -1,0 +1,44 @@
+# ---- OS / Editor ----
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# VS Code local settings (optional to track)
+.vscode/
+
+# Competitive Programming helper folder
+/.cph/
+
+# Personal roadmap/reference docs
+/DSA_Quick_Reference.md
+/DSA_Roadmap_4-5_Months.md
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+.venv/
+venv/
+env/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# ---- Data / Outputs (uncomment if needed) ----
+# *.csv
+# *.xlsx
+# *.parquet
+# *.pkl
+# *.joblib
+# *.h5
+# *.pt
+# *.pth
+
+# ---- Secrets ----
+.env
+.env.*
+*.pem
+*.key
