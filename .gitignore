@@ -42,3 +42,4 @@ env/
 .env.*
 *.pem
 *.key
+ML/Datasets/fashion-mnist.csv
