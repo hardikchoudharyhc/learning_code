@@ -1,0 +1,485 @@
+doctor_name,doctor_type,experience_years,location,hospital,fees,city
+Dr. Anil Agadi,General Surgeon,33,"Wilson Garden , Bangalore",SRV Agadi Hospital,600.0,Bangalore
+Dr. Rajasekhar,General Surgeon,46,"BTM Layout 2nd Stage , Bangalore",Chirag Global Hospital,3000.0,Bangalore
+Dr. Eashwernath P S,General Physician,42,"HSR Layout , Bangalore",Greenview Medical Center,1500.0,Bangalore
+Dr. Tulip Chamany,General Surgeon,35,"Arekere , Bangalore",Camry Hospitals,600.0,Bangalore
+Dr. Shabeer Ahmed,Laparoscopic Surgeon,40,"Sivanchetti Gardens , Bangalore",Q Medical Centre and Hospital,650.0,Bangalore
+Dr. Arun Kumar,General Surgeon,36,"HSR Layout , Bangalore",Greenview Medical Center,1500.0,Bangalore
+Dr. Aditya S Chowti,General Physician,18,"Kalyan Nagar , Bangalore",Trilife Hospital,1200.0,Bangalore
+Dr. Raghavendra R,Pain Management Specialist,26,"Hebbal , Bangalore",Aster CMI Hospital,1200.0,Bangalore
+Dr. Ravishankar Reddy C R,General Physician,33,"Koramangala 1 Block , Bangalore",Marvel Multispeciality Hospital,1000.0,Bangalore
+Dr. Ranga Naik,General Physician,49,"Koramangala 1 Block , Bangalore",Marvel Multispeciality Hospital,1000.0,Bangalore
+Dr. Roopa Bhushan,GastroIntestinal Surgeon,25,"Sampangiramnagar , Bangalore",Trustwell Hospitals,800.0,Bangalore
+Dr. Bhaskar Pai.K,General Surgeon,40,"Seshadripuram , Bangalore",Apollo Hospitals,800.0,Bangalore
+Dr. Devika G,General Physician,15,"Magrath Road , Bangalore",HOSMAT Hospital,700.0,Bangalore
+Dr. Aparna Verma,General Physician,25,"HSR Layout , Bangalore",Greenview Medical Center,1000.0,Bangalore
+Dr. Ramesh Makam,General Surgeon,37,"Basavanagudi , Bangalore",A V Hospital,1000.0,Bangalore
+Dr. Vamsi Krishna M,General Surgeon,28,"Whitefield , Bangalore",Medicover Hospitals - Bangalore,600.0,Bangalore
+Dr. Abdul Razack.G.S,Laparoscopic Surgeon,24,"Koramangala 1 Block , Bangalore",Marvel Multispeciality Hospital,1000.0,Bangalore
+Dr. Vinay Bhat,GastroIntestinal Surgeon,21,"Hebbal , Bangalore",Aster CMI Hospital,1200.0,Bangalore
+Dr. Shiva Kumar,General Surgeon,25,"Bommanahalli , Bangalore",Curemaxx Hospitals,750.0,Bangalore
+Dr. Wasim M Dar,General Surgeon,19,"Sivanchetti Gardens , Bangalore",Q Medical Centre and Hospital,600.0,Bangalore
+Dr. Mahesha C,General Surgeon,30,"Hebbal , Bangalore",Aster CMI Hospital,1200.0,Bangalore
+Dr. M Sri Sai Prasad,General Physician,30,"Belathur , Bangalore",Aaxis Hospitals,650.0,Bangalore
+Dr. Suhas S,Plastic Surgeon,16,"Wilson Garden , Bangalore",SRV Agadi Hospital,800.0,Bangalore
+Dr. K S Harshith,Internal Medicine,25,"JP Nagar , Bangalore",Aster RV Hospital,1150.0,Bangalore
+Dr. Vijay C R Reddy,General Surgeon,31,"Bellandur , Bangalore",Nelivigi Multispeciality and Urology Hospital,800.0,Bangalore
+Dr. Sudhindra,General Physician,30,"BTM Layout , Bangalore",Marigold Hospital,700.0,Bangalore
+Dr. D Sandeep,General Surgeon,16,"Kasturi nagar , Bangalore",Columbiaa Hospital,650.0,Bangalore
+Dr. Basanth Kumar.S,General Physician,23,"Kalyan Nagar , Bangalore",Trilife Hospital,1000.0,Bangalore
+Dr. Poovamma,General Surgeon,21,"Hebbal , Bangalore",Aster CMI Hospital,1200.0,Bangalore
+Dr. Mohammed Farooq Khateeb,Laparoscopic Surgeon,23,"Hebbal , Bangalore",Aster CMI Hospital,1200.0,Bangalore
+Dr. Ramraj V N,Laparoscopic Surgeon,21,"Hebbal , Bangalore",Aster CMI Hospital,1200.0,Bangalore
+Dr. Abhilasha Narayan,Gynecologist/Obstetrician,18,"Sampangiramnagar , Bangalore",HCG  - The Specialist in Cancer Care,1360.0,Bangalore
+Dr. Raja Selvarajan,General Physician,20,"Whitefield , Bangalore",Medicover Hospitals - Bangalore,600.0,Bangalore
+Dr. Vivekanand N Bhat,General Surgeon,34,"Madhava Nagar , Bangalore",Even Hospitals,300.0,Bangalore
+Dr. Venur Ajith Kumar,General Physician,50,"Arekere , Bangalore",Camry Hospitals,800.0,Bangalore
+Dr. Marina Thomas,General Surgeon,18,"Electronics City , Bangalore",Kauvery Hospitals,1000.0,Bangalore
+Dr. Prabhakar B,General Surgeon,24,"Whitefield , Bangalore",Aster Whitefield Hospital,800.0,Bangalore
+Dr. S S Kumar,Internal Medicine,52,"Seshadripuram , Bangalore",Apollo Hospitals,800.0,Bangalore
+Dr. Raghu B M,Gastroenterologist,20,"Yelahanka , Bangalore",K K Hospital,1000.0,Bangalore
+Dr. Deviprasad Hegde,General Physician,31,"Electronics City , Bangalore",Kauvery Hospitals,1000.0,Bangalore
+Dr. Ravindra Padmakar Deo,General Surgeon,47,"Hebbal , Bangalore",Aster CMI Hospital,1200.0,Bangalore
+Dr. Suhel Pasha,General Physician,25,"HSR Layout , Bangalore",Greenview Medical Center,1000.0,Bangalore
+Dr. Munireddy M V,General Surgeon,21,"Koramangala 1 Block , Bangalore",Marvel Multispeciality Hospital,1000.0,Bangalore
+Dr. Nithin Prakash,General Physician,23,"HBR Layout , Bangalore",Altius Hospitals,700.0,Bangalore
+Dr. Prabhu N Nesargikar,General Surgeon,25,"Sampangiramnagar , Bangalore",HCG  - The Specialist in Cancer Care,1360.0,Bangalore
+Dr. Sumayya Tasneem,General Physician,17,"Kasturi nagar , Bangalore",Columbiaa Hospital,650.0,Bangalore
+Dr. Sonal Asthana,General Surgeon,32,"Hebbal , Bangalore",Aster CMI Hospital,1200.0,Bangalore
+Dr. Chandan Juneja,General Surgeon,38,"Wilson Garden , Bangalore",SRV Agadi Hospital,800.0,Bangalore
+Dr. Chethan K,General Surgeon,27,"HBR Layout , Bangalore",Altius Hospitals,700.0,Bangalore
+Dr. Srinivas Rao,General Surgeon,30,"Belathur , Bangalore",Aaxis Hospitals,1000.0,Bangalore
+Dr. Vipender Sabherwal,General Surgeon,28,"Kilokri , Delhi",Jeewan Hospital Gate No. 1,700.0,Delhi
+Dr. Rajeev Gupta,Internal Medicine,34,"Model Town , Delhi",Yatharth Super Speciality Hospital,1500.0,Delhi
+Dr. Vivek Mittal,Cardiologist,29,"Preet Vihar , Delhi",Metro Hospital and Cancer Institute,1500.0,Delhi
+Dr. Kumar Manish,Bariatric Surgeon,32,"Saket , Delhi",Sawan Neelu Angels Nursing Home,1000.0,Delhi
+Dr. Sanjeev Kumar Gupta,Laparoscopic Surgeon,29,"Greater Kailash Part 1 , Delhi",SCI International Hospital,800.0,Delhi
+Dr. Vijay Hangloo,Laparoscopic Surgeon,36,"Saket , Delhi",Sawan Neelu Angels Nursing Home,1000.0,Delhi
+Dr. R S Gandhi,General Surgeon,37,"Kirti Nagar , Delhi",Kalra  Hospitals,1000.0,Delhi
+Dr. Siddarth Sain,Ophthalmologist,21,"South Extension 2 , Delhi",Agarwal Eye Hospital,800.0,Delhi
+Dr. Rakesh Sharma,General Physician,38,"Karol Bagh , Delhi",Jeewan Mala Hospital,1000.0,Delhi
+Dr. S.K. Tyagi,Internal Medicine,43,"Tilak Nagar , Delhi",Tyagi Nursing Home,1500.0,Delhi
+Dr. Ajit Kumar Talukdar,Internal Medicine,41,"Kilokri , Delhi",Jeewan Hospital Gate No. 1,700.0,Delhi
+Dr. Vinay Sabharwal,General Surgeon,50,"Karol Bagh , Delhi",Jeewan Mala Hospital,1000.0,Delhi
+Dr. Sachin Ambekar,Laparoscopic Surgeon,24,"Nehru Place , Delhi",MASSH-Minimal Access Smart Surgery Hospital,1200.0,Delhi
+Dr. Mohit Jain,General Surgeon,26,"Sagarpur , Delhi",Ansari Hospital,500.0,Delhi
+Dr. S K Bakshi,General Physician,44,"Safdarjung Enclave , Delhi",Aashlok Hospital,1500.0,Delhi
+Dr. Himanshu Shekhar,General Physician,20,"Greater Kailash Part 1 , Delhi",SCI International Hospital,1000.0,Delhi
+Dr. Raman Sharma,General Surgeon,19,"Pusa Road , Delhi",Sir Ganga Ram City Hospital,1200.0,Delhi
+Dr. Shiv Chopra,General Surgeon,35,"Chattarpur , Delhi",Cronus Multispeciality Hospital,1000.0,Delhi
+Dr. Vipin Kumar Grover,General Surgeon,41,"GTB Nagar , Delhi",Nulife Hospital & Maternity Centre,600.0,Delhi
+Dr. Vidyasagar Chaturvedi,General Surgeon,16,"Kailash Colony , Delhi",SSB Multispeciality Hospital,1000.0,Delhi
+Dr. Avinder Sabharwal,Laparoscopic Surgeon,28,"Maharani Bagh , Delhi",Jeewan hospital gate no 2,800.0,Delhi
+Dr. Piyush Sharma,General Surgeon,16,"Safdarjung Enclave , Delhi",Aashlok Hospital,1200.0,Delhi
+Dr. Uday Nath Shahi,General Physician,31,"Gulabi Bagh , Delhi",NKS Super Speciality Hospital,350.0,Delhi
+Dr. Ashok Kumar Kaushik,General Physician,57,"Naraina Vihar , Delhi",Kapoor Medical Centre,1400.0,Delhi
+Dr. Chetan Kumar Gupta,General Physician,27,"Chattarpur , Delhi",Cronus Multispeciality Hospital,800.0,Delhi
+Dr. Sandeep Jain,General Surgeon,27,"Karkardooma , Delhi",Garg Hospital,800.0,Delhi
+Dr. Chandan Bhattacharya,General Physician,37,"Jasola , Delhi",ORL International Hospital,1000.0,Delhi
+Dr. Sunil Garg,General Surgeon,48,"Siri Fort Road , Delhi",Sama Hospital,1200.0,Delhi
+Dr. Sushil Kumar,General Surgeon,35,"Chattarpur , Delhi",Cronus Multispeciality Hospital,1000.0,Delhi
+Dr. Shailender Kumar Jain,General Surgeon,31,"Janakpuri , Delhi",Healing Hands PG Gynaecology & Urology Center,1000.0,Delhi
+Dr. Pankaj Kumar,General Physician,23,"Karol Bagh , Delhi",Jeewan Mala Hospital,1000.0,Delhi
+Dr. Vishal Garg,General Physician,19,"Karol Bagh , Delhi",Jeewan Mala Hospital,1000.0,Delhi
+Dr. Seema Pandey,General Physician,30,"Uttam Nagar , Delhi",Chandraleela Hospital,600.0,Delhi
+Dr. P K Bansal,General Physician,53,"Nehru Place , Delhi",MASSH-Minimal Access Smart Surgery Hospital,1500.0,Delhi
+Dr. Aditya Sharda,General Physician,50,"Chokhandi , Delhi",Park Hospital,800.0,Delhi
+Dr. Anuj Kumar Kundalia,General Surgeon,29,"Karkardooma , Delhi",Garg Hospital,400.0,Delhi
+Dr. Pushpinder Singh,Spine And Pain Specialist,27,"Punjabi Bagh , Delhi",MGS Super Speciality Hospital,1000.0,Delhi
+Dr. Nagendra Kumar Kulkarni,General Surgeon,31,"Chokhandi , Delhi",Park Hospital,800.0,Delhi
+Dr. Sanjiv Kumar Chopra,General Surgeon,37,"Model Town , Delhi",Yatharth Super Speciality Hospital,1500.0,Delhi
+Dr. Dileep Makhija,General Surgeon,50,"Safdarjung Enclave , Delhi",The Neptune Hospital,1500.0,Delhi
+Dr. Ratnesh Mahajan,General Surgeon,15,"GTB Nagar , Delhi",Nulife Hospital & Maternity Centre,800.0,Delhi
+Dr. Rajendra Kumar Maskara,General Surgeon,29,"Jasola , Delhi",ORL International Hospital,1000.0,Delhi
+Dr. Rahul Gupta,General Surgeon,19,"Yamuna Vihar , Delhi",Dr. Aggarwal’s Wellness Multispeciality Hospital,800.0,Delhi
+Dr. Arjun Rastogi,General Physician,50,"Safdarjung Enclave , Delhi",The Neptune Hospital,1500.0,Delhi
+Dr. Rita Kapoor,General Physician,39,"Naraina Vihar , Delhi",Kapoor Medical Centre,1000.0,Delhi
+Dr. Subroto Kumar Datta,Cardiologist,43,"Dwarka Sector 6 , Delhi",Manipal Hospital,1500.0,Delhi
+Dr. Shamshad Ali,Internal Medicine,23,"Sagarpur , Delhi",Ansari Hospital,500.0,Delhi
+Dr. Kamleshwar Prasad Sinha,General Physician,30,"Maharani Bagh , Delhi",Jeewan hospital gate no 2,800.0,Delhi
+Dr. Sandeep Aggarwal,General Surgeon,35,"Dwarka Sector 6 , Delhi",Manipal Hospital,1500.0,Delhi
+Dr. Davinder Singh Kumar,General Physician,37,"Kailash Colony , Delhi",SSB Multispeciality Hospital,1500.0,Delhi
+Dr. Shashank Shah,General Surgeon,37,"Bandra West , Mumbai",Lilavati Hospital and Research Centre,3300.0,Mumbai
+Dr. Suresh Rao,General Surgeon,48,"Andheri East , Mumbai",Sanjeevani Mamta Hospital & Research Centre,1000.0,Mumbai
+Dr. Ajay garg,General Physician,46,"Malad West , Mumbai",Garg Multispeciality Hospital,1500.0,Mumbai
+Dr. Nilesh Sureshchandra Chordiya,General Surgeon,26,"Chembur , Mumbai",SSO Cancer Clinic,2000.0,Mumbai
+Dr. Vicky Jain,Plastic Surgeon,20,"Chembur , Mumbai",Surana Sethia Hospital and Research Center,2000.0,Mumbai
+Dr. Aditya Manke,General Surgeon,18,"Borivali West , Mumbai",Apex Superspeciality Hospitals,1500.0,Mumbai
+Dr. Kamran Khan,General Surgeon,35,"Ghatkopar West , Mumbai",Specialty Surgical Oncology Hospital and Research,4000.0,Mumbai
+Dr. Aditi Agrawal,General Surgeon,21,"Borivali West , Mumbai",Apex Superspeciality Hospitals,2000.0,Mumbai
+Dr. Salaah Qureshi,General Physician,23,"Jogeshwari West , Mumbai",Bluebell Hospital,1500.0,Mumbai
+Dr. Kunal Chandrakant,General Surgeon,19,"Borivali West , Mumbai",Xenon Multi-speciality Hospital,1000.0,Mumbai
+Dr. Nikhil Gawde,Laparoscopic Surgeon,17,"Chembur , Mumbai",Surana Sethia Hospital and Research Center,1000.0,Mumbai
+Dr. Manish Arora,Anesthesiologist,28,"Bhandup West , Mumbai",Sudhanshu Hospital & ICCU,2000.0,Mumbai
+Dr. Satish Rao,General Surgeon,33,"Bandra West , Mumbai",Lilavati Hospital and Research Centre,3300.0,Mumbai
+Dr. Abhay Agrawal,Bariatric Surgeon,31,"Borivali West , Mumbai",Apex Superspeciality Hospitals,2000.0,Mumbai
+Dr. Harish Kumar,General Surgeon,42,"Bhandup West , Mumbai",Sudhanshu Hospital & ICCU,2000.0,Mumbai
+Dr. Gautam Nadkarni,General Surgeon,29,"Chembur , Mumbai",Surana Sethia Hospital and Research Center,1000.0,Mumbai
+Dr. Manali Parmar,Gynecologist/Obstetrician,26,"Mulund West , Mumbai",Elite Women and Child Care Hospital,1800.0,Mumbai
+Dr. Uday Pawar,General Surgeon,25,"Malad East , Mumbai",Mauli Aarogyam Multi Speciality Hospital,2000.0,Mumbai
+Dr. Balbirsingh Kohli,General Physician,31,"Mulund West , Mumbai",Apex Hospitals,1500.0,Mumbai
+Dr. Vinaykumar Thati,General Surgeon,25,"Bandra West , Mumbai",Lilavati Hospital and Research Centre,2200.0,Mumbai
+Dr. Brijesh Dube,Laparoscopic Surgeon,28,"Andheri West , Mumbai",Thunga STH Hospital,1000.0,Mumbai
+Dr. Mrinalini Singh,Internal Medicine,15,"Mulund West , Mumbai",Elite Women and Child Care Hospital,1800.0,Mumbai
+Dr. Pankaj Gandhi,General Surgeon,30,"Goregaon West , Mumbai",Suvidha Hospital & Polyclinic,1200.0,Mumbai
+Dr. Kaustubh Durve,General Physician,19,"Mulund West , Mumbai",Platinum Hospital,2000.0,Mumbai
+Dr. Bhavisha Ghughare,General Surgeon,27,"Borivali West , Mumbai",HCG Cancer Centre,2500.0,Mumbai
+Dr. Mehul Manilal Dhanoria,General Surgeon,20,"Andheri East , Mumbai",Sanjeevani Mamta Hospital & Research Centre,1000.0,Mumbai
+Dr. Sharmin Zaheer Dossa,General Surgeon,21,"Andheri West , Mumbai",Nakshatra Multispeciality Hospital,1500.0,Mumbai
+Dr. Milind Deole,General Physician,30,"Malad East , Mumbai",Mauli Aarogyam Multi Speciality Hospital,1200.0,Mumbai
+Dr. Bharatbhushan Podwal,General Surgeon,44,"Borivali West , Mumbai",Apex Superspeciality Hospitals,1500.0,Mumbai
+Dr. Kamal Shukla,General Surgeon,23,"Malad West , Mumbai",Garg Multispeciality Hospital,1200.0,Mumbai
+Dr. Vishal Yadav,General Surgeon,17,"Malad East , Mumbai",Mauli Aarogyam Multi Speciality Hospital,1200.0,Mumbai
+Dr. Simit Vora,General Surgeon,20,"Jogeshwari West , Mumbai",Mallika Hospital,1500.0,Mumbai
+Dr. Rai Sunil Raghunath,General Surgeon,39,"Malad East , Mumbai",Mauli Aarogyam Multi Speciality Hospital,1500.0,Mumbai
+Dr. Pranav Rajnikant Shah,Anesthesiologist,18,"Andheri West , Mumbai",Thunga STH Hospital,600.0,Mumbai
+Dr. Sai Prasad Donga,General Surgeon,33,"Bhandup West , Mumbai",Sudhanshu Hospital & ICCU,2000.0,Mumbai
+Dr. Madhava Karanth,General Physician,38,"Bhandup West , Mumbai",Sudhanshu Hospital & ICCU,2500.0,Mumbai
+Dr. Ganvir Amit,General Physician,16,"Borivali West , Mumbai",Xenon Multi-speciality Hospital,1000.0,Mumbai
+Dr. Amol Suresh Patil,General Surgeon,25,"Borivali West , Mumbai",Aum Superspeciality Hospital,1500.0,Mumbai
+Dr. Anupam Shukla,General Surgeon,17,"Andheri West , Mumbai",Thunga STH Hospital,2000.0,Mumbai
+Dr. Aditya Shekhar Phadke,General Surgeon,16,"Mulund West , Mumbai",Apex Hospitals,1200.0,Mumbai
+Dr. Srikanth Atluri,Urologist,17,"Andheri East , Mumbai",SSO Cancer Hospitals,2000.0,Mumbai
+Dr. Shrirang Yedvardkar,General Surgeon,17,"Mulund West , Mumbai",Apex Hospitals,1500.0,Mumbai
+Dr. Dimple Patel,General Surgeon,15,"Kandivali , Mumbai",Apex Hospitals Kandivali,1500.0,Mumbai
+Dr. Mhatre Amish Prakash,General Surgeon,28,"Dahisar East , Mumbai",A1 Superspeciality Healthcare,2500.0,Mumbai
+Dr. Rajendra Badwe,General Surgeon,46,"Jogeshwari West , Mumbai",Mallika Hospital,2000.0,Mumbai
+Dr. Kamwal Basant Sadilal,Internal Medicine,34,"Borivali West , Mumbai",HCG Cancer Centre,2500.0,Mumbai
+Dr. Soni Vinne Siddharth,General Surgeon,25,"Mulund West , Mumbai",Elite Women and Child Care Hospital,1800.0,Mumbai
+Dr. Manoj Aithal,Laparoscopic Surgeon,24,"Goregaon West , Mumbai",Suvidha Hospital & Polyclinic,1000.0,Mumbai
+Dr. D B Bhosale,General Surgeon,41,"Chembur , Mumbai",Surana Sethia Hospital and Research Center,,Mumbai
+Dr. Vishal Diddi,General Surgeon,20,"Jogeshwari West , Mumbai",Mallika Hospital,2000.0,Mumbai
+Dr. Mitilesh Raut,General Physician,22,"Hitech City , Hyderabad",Medicover Hospitals - Hitech City,600.0,Hyderabad
+Dr. Rehan Sabir Momin,Gastroentrology Surgeon,24,"Banjara Hills , Hyderabad",EPIC International Hospitals Private Limited,750.0,Hyderabad
+Dr. Srujan Kumar Bellapu,General Surgeon,23,"Ameerpet , Hyderabad",Aster Prime Hospital,600.0,Hyderabad
+Dr. Brahmananda Reddy C H,General Surgeon,27,"Madinaguda , Hyderabad",Archana Hospitals,700.0,Hyderabad
+Dr. Anilkumar Namburi,General Physician,26,"Banjara Hills , Hyderabad",Virinchi Hospitals,600.0,Hyderabad
+Dr. G V Praveen Kumar,Vascular Surgeon,24,"Banjara Hills , Hyderabad",Asian Vascular Hospital,1200.0,Hyderabad
+Dr. Sanjeev Singh Yadav,General Surgeon,38,"Banjara Hills , Hyderabad",EPIC International Hospitals Private Limited,750.0,Hyderabad
+Dr. A Suresh Chandra,GastroIntestinal Surgeon,27,"Banjara Hills , Hyderabad",Virinchi Hospitals,600.0,Hyderabad
+Dr. Dhanalakshmi Inala,General Physician,24,"KPHB , Hyderabad",K K Reddy Hospital,800.0,Hyderabad
+Dr. V Ravi Kiran,General Physician,25,"Banjara Hills , Hyderabad",Renova - NIGL Hospitals,700.0,Hyderabad
+Dr. Laxminadh Sivaraju,Neurosurgeon,22,"Attapur , Hyderabad",Germanten Hospitals,800.0,Hyderabad
+Dr. Mithil B Ghushe,General Physician,23,"Hitech City , Hyderabad",Medicover Hospitals - Hitech City,600.0,Hyderabad
+Dr. Salecha Priyank Ashokkumar,General Surgeon,16,"Madinaguda , Hyderabad",Archana Hospitals,600.0,Hyderabad
+Dr. Hima Bindu N,General Surgeon,19,"Petbasheerabad , Hyderabad",Stork Hospitals,600.0,Hyderabad
+Dr. P. Sharath Chandra Kaushik,General Surgeon,22,"Hitech City , Hyderabad",Medicover Hospitals - Hitech City,600.0,Hyderabad
+Dr. Naveen Kumar Pothireddy,General Physician,17,"Hitech City , Hyderabad",Medicover Hospitals - Hitech City,600.0,Hyderabad
+Dr. Shiva Ramakrishna Konda,General Practitioner,18,"Banjara Hills , Hyderabad",Virinchi Hospitals,600.0,Hyderabad
+Dr. Rohith Kumar Nayak,Neurosurgeon,34,"Madinaguda , Hyderabad",Archana Hospitals,450.0,Hyderabad
+Dr. Rama Priya Rengaswamy,General Physician,21,"Himayat Nagar , Hyderabad",Sathya Kidney Center,750.0,Hyderabad
+Dr. Srinivas. P,Laparoscopic Surgeon,21,"KPHB , Hyderabad",Sree Manju Hospitals,500.0,Hyderabad
+Dr. Abhilash N,General Surgeon,15,"Kondapur , Hyderabad",Dr. Abhilash's Laparoscopy & Laser Clinics,650.0,Hyderabad
+Dr. N Abhilash,General Surgeon,15,"Kondapur , Hyderabad",Dr. Abhilash's Laparoscopy & Laser Clinics,650.0,Hyderabad
+Dr. Vinay Kumar,Diabetologist,19,"Hitech City , Hyderabad",Medicover Hospitals - Hitech City,600.0,Hyderabad
+Dr. Katta Venkateswara Rao,General Surgeon,23,"Madinaguda , Hyderabad",Archana Hospitals,500.0,Hyderabad
+Dr. D Mahalakshmi,Endocrine Surgeon,16,"Kukatpally , Hyderabad",Amor Hospitals,1100.0,Hyderabad
+Dr. K K Reddy Sadu,General Physician,25,"KPHB , Hyderabad",K K Reddy Hospital,800.0,Hyderabad
+Dr. Kishan Nunsavata,General Physician,18,"Kothapet , Hyderabad",Ozone Hospitals,800.0,Hyderabad
+Dr. T Vamshee,Pediatrician,19,"Hitech City , Hyderabad",Medicover Woman &  Child Hospitals - Hitech City,800.0,Hyderabad
+Dr. Chetan B.Mahajan,General Surgeon,25,"Somajiguda , Hyderabad",The Deccan Hospital,700.0,Hyderabad
+Dr. Ireni Raja Kiran Kumar Goud,Plastic Surgeon,28,"Kothapet , Hyderabad",Ozone Hospitals,800.0,Hyderabad
+Dr. Channamsetty Sashidhar,,26,"Himayat Nagar , Hyderabad",Sathya Kidney Center,750.0,Hyderabad
+Dr. Krishna Moorthy,Plastic Surgeon,20,"Madinaguda , Hyderabad",Archana Hospitals,500.0,Hyderabad
+Dr. Gujar Basweshwar Shivanand,General Surgeon,23,"Nallakunta , Hyderabad",Seasons Hospital,500.0,Hyderabad
+Dr. Pradeep Kumar Mishra,General Physician,26,"Secunderabad , Hyderabad",Medicover Hospitals,1000.0,Hyderabad
+Dr. Pallam Praveen,General Surgeon,33,"Ecil , Hyderabad",Lifeline Multispeciality Hospital,1350.0,Hyderabad
+Dr. Ajit Kumar Azad,General Physician,20,"KPHB , Hyderabad",Sree Manju Hospitals,700.0,Hyderabad
+Dr. Vasantha Jella,General Physician,20,"Kothapet , Hyderabad",Ozone Hospitals,800.0,Hyderabad
+Dr. Krishna Mohan K,General Surgeon,21,"Secunderabad , Hyderabad",Renova Hospitals,500.0,Hyderabad
+Dr. M Sridhar,General Surgeon,25,"Kukatpally , Hyderabad",Prathima Hospitals,600.0,Hyderabad
+Dr. Saritha K,Family Physician,18,"Moti Nagar , Hyderabad",Sree Manju Hospitals,600.0,Hyderabad
+Dr. Y Krishna Mohan,General Surgeon,31,"Kukatpally , Hyderabad",Amor Hospitals,1300.0,Hyderabad
+Dr. K. Gangadhar,General Surgeon,42,"Langar Houz , Hyderabad","Renova Hospital, Langar House",600.0,Hyderabad
+Dr. K Arvinda Sagar,General Surgeon,16,"Sangareddy , Hyderabad",Sreshta Multi Speciality Hospital,800.0,Hyderabad
+Dr. K Sravan Kumar,General Surgeon,16,"Sangareddy , Hyderabad",Sreshta Multi Speciality Hospital,800.0,Hyderabad
+Dr. Chandramohan,General Physician,17,"Medchal , Hyderabad",SV Super Speciality Hospital,800.0,Hyderabad
+Dr. Syed Imran Ahmed,General Physician,25,"Mehadipatnam , Hyderabad",Premier Hospital,500.0,Hyderabad
+Dr. Satish Reddy Pullalrevu,General Surgeon,30,"Financial District , Hyderabad",Medicover Hospital,1000.0,Hyderabad
+Dr. K Vamsi Mohan,General Physician,16,"Vanasthalipuram , Hyderabad",Pragma Hospitals,600.0,Hyderabad
+Dr. Raghavendhar,General Physician,21,"Nallakunta , Hyderabad",Seasons Hospital,600.0,Hyderabad
+Dr. A Gunasekaran,Neurologist,33,"Maduravoyal , Chennai",Neuro Life Hospital,600.0,Chennai
+Dr. Balaji Ravilla Baskara,General Surgeon,27,"Purasawakkam , Chennai",Noble Hospital,250.0,Chennai
+Dr. M.S.Kalyan Kumar,General Surgeon,18,"Kilpauk , Chennai",Kannapa Memorial Hospital,800.0,Chennai
+Dr. P Sathish,Laparoscopic Surgeon,33,"Vadapalani , Chennai",Sooriya Hospital - Vadapalani,1000.0,Chennai
+Dr. Jeysel Suraj,General Physician,25,"Medavakkam , Chennai",Suraj Hospital,300.0,Chennai
+Dr. Rajkumar Rathinasamy,Gastroenterologist,26,"Medavakkam , Chennai",Suraj Hospital,800.0,Chennai
+Dr. C P Sreekumar,General Surgeon,48,"Vadapalani , Chennai",Sooriya Hospital - Vadapalani,800.0,Chennai
+Dr. Ananthasamy,General Surgeon,39,"Tambaram West , Chennai",Deepam Hospitals,800.0,Chennai
+Dr. G Kumaragurubaran,Laparoscopic Surgeon,29,"Shenoy Nagar , Chennai",Billroth Hospitals,400.0,Chennai
+Dr. C.Arunmozhi Varman,Laparoscopic Surgeon,18,"Chromepet , Chennai",Dr. Rela Institute & Medical Centre,800.0,Chennai
+Dr. Praveen Kumar,General Surgeon,27,"Raja Annamalai Puram , Chennai",Billroth Hospital,1000.0,Chennai
+Dr. Prabhu,General Surgeon,19,"Anna Nagar , Chennai",Hycare Hospitals,500.0,Chennai
+Dr. Anisha Ashok,General Surgeon,20,"T Nagar , Chennai",Laser and Laparoscopic Hospital,800.0,Chennai
+Dr. S R Subrammaniyan,Vascular Surgeon,42,"Shenoy Nagar , Chennai",Billroth Hospitals,1000.0,Chennai
+Dr. Siva,General Surgeon,32,"Aminjikarai , Chennai",CFC Multispeciality Hospital,1000.0,Chennai
+Dr. Chitra R,General Physician,26,"Aminjikarai , Chennai",CFC Multispeciality Hospital,1000.0,Chennai
+Dr. Viswanathan Krishnaswamy,General Surgeon,27,"T Nagar , Chennai",Be Well Hospital,1500.0,Chennai
+Dr. Hari Prasad,General Physician,21,"Kilpauk , Chennai",Kannapa Memorial Hospital,800.0,Chennai
+Dr. A. Srinivasan,General Physician,40,"Purasawakkam , Chennai",Narayanaa Hospital,600.0,Chennai
+Dr. B. Padam Kumar,General Surgeon,15,"Raja Annamalai Puram , Chennai",Billroth Hospital,700.0,Chennai
+Dr. Sivaraman Gurunathan Mani,General Surgeon,26,"Ramapuram , Chennai",Srushti Fertility Centre & Women's Hospital,1000.0,Chennai
+Dr. A R Balaji,General Surgeon,40,"Shenoy Nagar , Chennai",Billroth Hospitals,500.0,Chennai
+Dr. Srikanth Muralikrishnan,General Physician,30,"Kilpauk , Chennai",Kannapa Memorial Hospital,800.0,Chennai
+Dr. Rajkumar Janaviculam Sankaran,General Surgeon,40,"Kilpauk , Chennai",Lifeline Rigid Hospitals,1000.0,Chennai
+Dr. Sivaraj S M,GastroIntestinal Surgeon,30,"Shenoy Nagar , Chennai",Billroth Hospitals,550.0,Chennai
+Dr. Vinodh Duraisamy,General Surgeon,19,"Maduravoyal , Chennai",Neuro Life Hospital,600.0,Chennai
+Dr. Sathyanarayan S A K V,General Physician,32,"Shenoy Nagar , Chennai",Billroth Hospitals,800.0,Chennai
+Dr. Sabarisan Rangbashyam,General Surgeon,16,"Anna Nagar , Chennai",Be Well Hospitals,1500.0,Chennai
+Dr. Mathu Soothanan,General Surgeon,22,"Aminjikarai , Chennai",CFC Multispeciality Hospital,1000.0,Chennai
+Dr. Sankar Narayanan M L,GastroIntestinal Surgeon,18,"Shenoy Nagar , Chennai",Billroth Hospitals,550.0,Chennai
+Dr. Neelamegam Thoppa Kapali,General Surgeon,42,"Ramapuram , Chennai",SRM Prime Hospital,750.0,Chennai
+Dr. Praveen Kumar Reddy,General Physician,16,"Ramapuram , Chennai",SRM Prime Hospital,500.0,Chennai
+Dr. Balakumaran S,Gastroenterologist,23,"Chetpet , Chennai",VS Hospitals,800.0,Chennai
+Dr. Yeshwanth T R,General Surgeon,35,"Ramapuram , Chennai",SRM Prime Hospital,600.0,Chennai
+Dr. Thirumanikandan,Oncologist,16,"Kilpauk , Chennai",Kannapa Memorial Hospital,800.0,Chennai
+Dr. Sandhya S,Cardiologist,17,"Mogappair , Chennai",Frontier Lifeline Hospital,1000.0,Chennai
+Dr. Senthil Kumar,General Physician,22,"Aminjikarai , Chennai",CFC Multispeciality Hospital,1000.0,Chennai
+Dr. Kaundinya Kiran Bharatam,Laparoscopic Surgeon,23,"Kelambakkam , Chennai",Chettinad Super Speciality Hospital,800.0,Chennai
+Dr. Moosa Kunhi,General Surgeon,44,"Kolathur , Chennai",Meridian Hospital,1000.0,Chennai
+Dr. Ravindra Kumar,General Physician,26,"Ramapuram , Chennai",SRM Prime Hospital,600.0,Chennai
+Dr. V.T.S.Arul Sivakumar,Plastic Surgeon,20,"Chromepet , Chennai",Dr Kumar's Speciality Hospital,750.0,Chennai
+Dr. Arun Chander,General Surgeon,16,"Chromepet , Chennai",Dr Kumar's Speciality Hospital,600.0,Chennai
+Dr. Nancy Glory,Pulmonologist,27,"Purasawakkam , Chennai",Narayanaa Hospital,700.0,Chennai
+Dr. Sam Jacob,Cardiologist,17,"Mogappair , Chennai",Frontier Lifeline Hospital,1000.0,Chennai
+Mr. Tharun Ganapathy,General Physician,18,"Kilpauk , Chennai",Murugan Hospitals,950.0,Chennai
+Dr. Shankar Mahadevaswamy Geeniga,Anesthesiologist,23,"Ramapuram , Chennai",SRM Prime Hospital,600.0,Chennai
+Dr. Rajasekaran M,General Physician,17,"Aminjikarai , Chennai",CFC Multispeciality Hospital,1000.0,Chennai
+Dr. Vinoth Gnana Chellaiyan,General Physician,17,"Kelambakkam , Chennai",Chettinad Super Speciality Hospital,800.0,Chennai
+Dr. Anirudh Janavikulam Rajkumar,General Surgeon,15,"Kilpauk , Chennai",Lifeline Rigid Hospitals,900.0,Chennai
+Dr. Natesan C,Internal Medicine,59,"Vadapalani , Chennai",Sooriya Hospital - Vadapalani,500.0,Chennai
+Dr. Naba Kumar Saha,General Surgeon,30,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,1500.0,Kolkata
+Dr. Gaurav Priyadarshan,General Surgeon,15,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,1200.0,Kolkata
+Dr. Pratik Kumar Mitra,Anesthesiologist,16,"Beliaghata , Kolkata",Techno India Dama Healthcare & Medical Centre,1100.0,Kolkata
+Dr. Koushik Basu,General Physician,24,"Beliaghata , Kolkata",Techno India Dama Healthcare & Medical Centre,800.0,Kolkata
+Dr. Rahul Dhar,General Surgeon,15,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,1500.0,Kolkata
+Dr. Prasenjit Bhattacharya,General Surgeon,18,"Bhawanipore , Kolkata",Samaritan Clinic Private Limited,1600.0,Kolkata
+Dr. Mainak Pal,General Surgeon,18,"Bhawanipore , Kolkata",Samaritan Clinic Private Limited,1300.0,Kolkata
+Dr. Debtanu Bhattacharya,General Surgeon,30,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,1200.0,Kolkata
+Dr. Ranjit Kumar Halder,General Physician,26,"Bhawanipore , Kolkata",Samaritan Clinic Private Limited,1500.0,Kolkata
+Dr. Amit Kumar Das,General Surgeon,17,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,800.0,Kolkata
+Dr. Mukesh Kumar Vijay,Urologist,25,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,2000.0,Kolkata
+Dr. Chayan Kumar Roy,General Physician,31,"Beliaghata , Kolkata",Techno India Dama Healthcare & Medical Centre,700.0,Kolkata
+Dr. Pallab Saha,General Surgeon,28,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,1300.0,Kolkata
+Dr. Utpal Chaudhuri,General Physician,48,"Beliaghata , Kolkata",Techno India Dama Healthcare & Medical Centre,1300.0,Kolkata
+Dr. Anindita Bhar,General Surgeon,26,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,1200.0,Kolkata
+Dr. Achintya Kumar,General Surgeon,32,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,1500.0,Kolkata
+Dr. Amit K R Samanta,General Surgeon,29,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,1500.0,Kolkata
+Dr. Debasish Chatterjee,General Surgeon,17,"Beliaghata , Kolkata",Techno India Dama Healthcare & Medical Centre,1000.0,Kolkata
+Dr. Sananda Ghoshal,Anesthesiologist,16,"New Town , Kolkata",HCG Cancer Centre,2000.0,Kolkata
+Dr. Amlan Chakraborty,General Surgeon,26,"Bhawanipore , Kolkata",Samaritan Clinic Private Limited,2000.0,Kolkata
+Dr. Shambhu Vishal,General Physician,17,"Beliaghata , Kolkata",Techno India Dama Healthcare & Medical Centre,600.0,Kolkata
+Dr. Rajesh Barasia,General Surgeon,36,"Beliaghata , Kolkata",Techno India Dama Healthcare & Medical Centre,1000.0,Kolkata
+Dr. Shiv Krishna Mitra,General Physician,16,"Bhawanipore , Kolkata",Samaritan Clinic Private Limited,1500.0,Kolkata
+Dr. Pritam Kundu,Laparoscopic Surgeon,11,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,1200.0,Kolkata
+Dr. Ranajoy Dutta,General Physician,14,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,1000.0,Kolkata
+Dr. Suvendu Maji,General Surgeon,14,"Bhawanipore , Kolkata",Sl Artemis Medical Centre Pvt Ltd,2000.0,Kolkata
+Dr. Sadajit Banerjee,General Physician,13,"Beliaghata , Kolkata",Techno India Dama Healthcare & Medical Centre,1000.0,Kolkata
+Dr. Karan Sehgal,Laparoscopic Surgeon,13,"New Town , Kolkata",HCG Cancer Centre,1200.0,Kolkata
+Dr. Suvraaj Das,General Surgeon,13,"New Town , Kolkata",HCG Cancer Centre,1200.0,Kolkata
+Dr. Anumita Dey,General Physician,21,"Behala , Kolkata",Nova Medical Services,1000.0,Kolkata
+Dr. Sandip Rungta,General Physician,26,"Beadon Street , Kolkata",Mansa Sheel,800.0,Kolkata
+Dr. Sumantra Ray,General Surgeon,18,"Mukundapur , Kolkata",Manipal Hospitals (AMRI Hospitals),1000.0,Kolkata
+Dr. Subhash Chandra Garai,General Physician,43,"Nagerbazar , Kolkata",Care & Cure Health Clinic,500.0,Kolkata
+Dr. Samindra Nath Basak,General Surgeon,40,"Dhakuria , Kolkata",Manipal Hospitals (AMRI Hospitals),1000.0,Kolkata
+Dr. Shyama Prasad Roy,General Physician,40,"Jadavpur , Kolkata",Binapani Doctor's Chamber,800.0,Kolkata
+Dr. Sabyasachi Bose,General Surgeon,34,"Mukundapur , Kolkata",Manipal Hospitals (AMRI Hospitals),800.0,Kolkata
+Dr. Debasish Saha,General Physician,46,"Salt Lake , Kolkata",Manipal Hospital Broadway (AMRI Hospitals),1500.0,Kolkata
+Dr. Kamal Sinha,Rehab & Physical Medicine Specialist,39,"Dhakuria , Kolkata",Manipal Hospitals (AMRI Hospitals),1200.0,Kolkata
+Dr. Tanmoy Mukherjee,General Surgeon,12,"Dhakuria , Kolkata",Manipal Hospitals (AMRI Hospitals),800.0,Kolkata
+Dr. Amit Kumar Dutta,General Surgeon,27,"Salt Lake , Kolkata",Manipal Hospital Broadway (AMRI Hospitals),1000.0,Kolkata
+Dr. Debkumar Ray,General Surgeon,38,"Salt Lake , Kolkata",Manipal Hospital Broadway (AMRI Hospitals),1000.0,Kolkata
+Dr. Sima Datta Ray,Internal Medicine,34,"Salt Lake , Kolkata",Manipal Hospital Broadway (AMRI Hospitals),1000.0,Kolkata
+Dr. Anirban Banerjee,General Surgeon,27,"Salt Lake , Kolkata",Manipal Hospital Broadway (AMRI Hospitals),1000.0,Kolkata
+Dr. Manaskumar Mandal,General Physician,36,"Salt Lake , Kolkata",Manipal Hospital Broadway (AMRI Hospitals),1200.0,Kolkata
+Dr. Subimal Gangopadhyay,General Surgeon,40,"Kankurgachi , Kolkata",RB Diagnostic,800.0,Kolkata
+Dr. Soumik Debnath,General Physician,16,"Salt Lake , Kolkata",Doctor's Clinic,700.0,Kolkata
+Dr. Soumitra Chandra,General Surgeon,34,"Salt Lake , Kolkata",Bidhannagar Medical Center,800.0,Kolkata
+Dr. Zohaib Adnan,General Practitioner,2,"Park Circus , Kolkata",Zuba Health Centre,500.0,Kolkata
+Dr. S A Mallick,General Physician,18,"Lake Gardens , Kolkata",Dr Amitava Chakravorty's Clinic,1500.0,Kolkata
+Dr. Sandip Chakrabarti,Laparoscopic Surgeon,38,"Salt Lake , Kolkata",Manipal Hospital Broadway (AMRI Hospitals),1000.0,Kolkata
+Dr. Shailaja Desai,Cosmetologist,17,"Sopan Baug , Pune","Dr. Desai Dermacare- Skin, Hair & Laser Clinic",700.0,Pune
+Dr. Nibedita Sahoo,General Physician,16,"Pimpri-Chinchwad , Pune",Aditya Birla Memorial Hospital,800.0,Pune
+Dr. Prashant Kedari,General Surgeon,27,"Pimple Saudagar , Pune",Jeevan Jyoti Superspeciality Hospital,1200.0,Pune
+Dr. Kote Shrikant Subhash,General Physician,17,"Wakad , Pune",Lifepoint Multispeciality Hospital,950.0,Pune
+Dr. Suhas Sudhakar Patil,General Surgeon,25,"Pimpri-Chinchwad , Pune",Aditya Birla Memorial Hospital,800.0,Pune
+Dr. Nitin Pawar,General Surgeon,40,"Dhankawadi , Pune",Pawar Multispeciality Hospital,800.0,Pune
+Dr. Narendra Chopde,Bariatric Surgeon,19,"Wanowrie , Pune",Ruby Hall Clinic,900.0,Pune
+Dr. Shama Shaikh,General Surgeon,24,"Wanowrie , Pune",Ruby Hall Clinic,700.0,Pune
+Dr. Abhijit A Whatkar,General Surgeon,17,"Hadapsar , Pune",Noble Hospital,800.0,Pune
+Dr. Sameer Badami,General Surgeon,29,"Wanowrie , Pune",Ruby Hall Clinic,700.0,Pune
+Dr. Rakesh Neve,Laparoscopic Surgeon,31,"Wakad , Pune",Lifepoint Multispeciality Hospital,1500.0,Pune
+Dr. Manish Srivastav,General Surgeon,23,"Pimpri-Chinchwad , Pune",Aditya Birla Memorial Hospital,1000.0,Pune
+Dr. Kumar Raushan,General Surgeon,18,"Pimpri-Chinchwad , Pune",Aditya Birla Memorial Hospital,800.0,Pune
+Dr. Rizwan Malik,General Physician,15,"Bhosari , Pune",Medicover Hospital,500.0,Pune
+Dr. Avinash Eknath Mundhe,General Physician,16,"Pimpri-Chinchwad , Pune",Aditya Birla Memorial Hospital,800.0,Pune
+Dr. Kundan Kharde,General Surgeon,19,"Pimple Nilakh , Pune",Sharvari Hospital,1000.0,Pune
+Dr. Vidita Powle,General Surgeon,16,"Pimpri-Chinchwad , Pune",Aditya Birla Memorial Hospital,1000.0,Pune
+Dr. Harshal Rajekar,General Surgeon,26,"Bhosari , Pune",Medicover Hospital,800.0,Pune
+Dr. Vrishali Patil,General Surgeon,26,"Pimpri-Chinchwad , Pune",Dr P.D Patil Super Speciality Hospital and Research Centre,1000.0,Pune
+Dr. Pushkar Galam,Laparoscopic Surgeon,15,"Pimpri-Chinchwad , Pune",Dr P.D Patil Super Speciality Hospital and Research Centre,500.0,Pune
+Dr. Rameshwar Hudekar,General Physician,20,"Wakad , Pune",Sunmed Hospital,700.0,Pune
+Dr. Shrikant Ghanwat,General Surgeon,15,"Bhosari , Pune",Medicover Hospital,800.0,Pune
+Dr. Sangar Deepali Dilip,General Surgeon,28,"Pimpri-Chinchwad , Pune",Aditya Birla Memorial Hospital,1000.0,Pune
+Dr. Shilpy Dolas,General Surgeon,20,"Wanowrie , Pune",Ruby Hall Clinic,1200.0,Pune
+Dr. Kedar Pratap Patil,Bariatric Surgeon,21,"Wanowrie , Pune",Ruby Hall Clinic,1100.0,Pune
+Dr. Dinesh Jain Bhermal,General Surgeon,36,"Wanowrie , Pune",Ruby Hall Clinic,900.0,Pune
+Dr. Umesh Paprunia,General Surgeon,33,"Hadapsar , Pune",Noble Hospital,850.0,Pune
+Dr. Harshvardhan Chaukulkar,Laparoscopic Surgeon,18,"Wanowrie , Pune",Ruby Hall Clinic,800.0,Pune
+Dr. Vinayak V Kshirsagar,General Surgeon,25,"Pimpri-Chinchwad , Pune",Dr P.D Patil Super Speciality Hospital and Research Centre,500.0,Pune
+Dr. Abhijit B Gotkhinde,Laparoscopic Surgeon,20,"Hadapsar , Pune",Noble Hospital,650.0,Pune
+Dr. Amit Shivajirao Patil,General Surgeon,24,"Pimple Nilakh , Pune",Sharvari Hospital,1000.0,Pune
+Dr. Salunkhe Sanjay Dattatraya,General Surgeon,44,"Wanowrie , Pune",Ruby Hall Clinic,900.0,Pune
+Dr. Harish Keswani,Orthopedist,40,"Wanowrie , Pune",Ruby Hall Clinic,900.0,Pune
+Dr. Lata Patil,General Physician,37,"Wanowrie , Pune",Ruby Hall Clinic,800.0,Pune
+Dr. Pramod Jagtap,General Physician,36,"Wanowrie , Pune",Ruby Hall Clinic,800.0,Pune
+Dr. Abhishek Ghosh,General Surgeon,26,"Wanowrie , Pune",Ruby Hall Clinic,900.0,Pune
+Dr. Chandiwal Minish Mahendra,General Physician,35,"Wanowrie , Pune",Ruby Hall Clinic,900.0,Pune
+Dr. Dikshit Bharat Ashok,General Surgeon,31,"Wanowrie , Pune",Ruby Hall Clinic,700.0,Pune
+Dr. Bhoyar Ruchita Wamdeo,General Surgeon,15,"Wanowrie , Pune",Ruby Hall Clinic,900.0,Pune
+Dr. Pandurang Sawant,Pediatrician,17,"Dhanori , Pune",Dr. Sawant's Clinic - Mother & Child Care,700.0,Pune
+Dr. Ashok Bansode,Pulmonologist,22,"Hadapsar , Pune",Pune Health Clinic,800.0,Pune
+Dr. Pradeep Jadhav,General Surgeon,21,"Hadapsar , Pune",Resolute Care,700.0,Pune
+Dr. Ajay Vane,Gastroenterologist,14,"Pimpri-Chinchwad , Pune",Dr P.D Patil Super Speciality Hospital and Research Centre,1000.0,Pune
+Dr. Avishkar Barase,General Surgeon,20,"Wakad , Pune",Sunmed Hospital,800.0,Pune
+Dr. Smita Parakh,General Surgeon,14,"Hadapsar , Pune",Noble Hospital,800.0,Pune
+Dr. Bansode Pradeep Eknathrao,General Surgeon,15,"Wakad , Pune",Sunmed Hospital,500.0,Pune
+Dr. Mene Pranav Prakash,General Surgeon,13,"Wakad , Pune",Sunmed Hospital,700.0,Pune
+Dr. Manish Kashyap,General Surgeon,12,"Bhosari , Pune",Medicover Hospital,1000.0,Pune
+Dr. Govinda N,General Physician,22,"Sasanenagar , Pune",Om Dental Clinc,500.0,Pune
+Dr. Moulik Gupta,General Surgeon,12,"Wanowrie , Pune",Ruby Hall Clinic,900.0,Pune
+Dr. Dhaval Patel,Laparoscopic Surgeon,17,"Vadaj , Ahmedabad",Gayatri hospital and research center,800.0,Ahmedabad
+Dr. Nemi Goriwal,Gastroenterologist,38,"Sola , Ahmedabad",HCG Aastha Cancer Centre,1500.0,Ahmedabad
+Dr. Jagdish Kothari,General Surgeon,41,"Sola , Ahmedabad",HCG Aastha Cancer Centre,1500.0,Ahmedabad
+Dr. Dushyant Mandlik,General Surgeon,25,"Sola , Ahmedabad",HCG Aastha Cancer Centre,1500.0,Ahmedabad
+Dr. Kamlesh Ram,General Surgeon,19,"Memnagar , Ahmedabad",Dr. Ram’s Advanced Surgical Hospital,1500.0,Ahmedabad
+Dr. Pathak Harsh Dilipkumar,General Physician,15,"Paldi , Ahmedabad",Bodyline Hospital,600.0,Ahmedabad
+Dr. Kelawala Zalak Bhadreshbhai,Oncologist,12,"Paldi , Ahmedabad",Bodyline Hospital,1100.0,Ahmedabad
+Dr. Chirag J. Shah,Laparoscopic Surgeon,25,"Satellite Road , Ahmedabad",Arham Surgical Hospital & Laparoscopic center,1000.0,Ahmedabad
+Dr. Kinnar Kapadia,Hair Transplant Surgeon,25,"Sola , Ahmedabad",Avenues Hair Transplant And Plastic Surgery Center,600.0,Ahmedabad
+Dr. Tapan Shah,General Physician,23,"Satellite , Ahmedabad",Sangini Hospital,1200.0,Ahmedabad
+Dr. Chirag Desai,General Practitioner,33,"Bhat , Ahmedabad",Apollo Hospital,1200.0,Ahmedabad
+Dr. Manjulata Anchalia,General Surgeon,50,"Bhat , Ahmedabad",Apollo Hospital,700.0,Ahmedabad
+Dr. Kruti Godhani,General Physician,16,"Nava Vadaj , Ahmedabad",Ved Multispecility Clinic & Diagnostics,800.0,Ahmedabad
+Dr. Shrikant Lagvankar,General Physician,46,"Bhat , Ahmedabad",Apollo Hospital,1000.0,Ahmedabad
+Dr. Pankaj Dubey,General Physician,29,"Bhat , Ahmedabad",Apollo Hospital,800.0,Ahmedabad
+Dr. Tushar Lakhia,General Surgeon,49,"Ambawadi , Ahmedabad",Apollo Hospitals City Centre,900.0,Ahmedabad
+Dr. Adheesh Goriwal,Laparoscopic Surgeon,13,"Thaltej , Ahmedabad",SAL Hospital,1000.0,Ahmedabad
+Dr. Anagha Santosh Zope,General Surgeon,32,"Bhat , Ahmedabad",Apollo Hospital,1100.0,Ahmedabad
+Dr. Swati Upadhayay,General Surgeon,40,"Bhat , Ahmedabad",Apollo Hospital,700.0,Ahmedabad
+Dr. Pooja Sharma,General Physician,4,"Satellite , Ahmedabad",Musk Clinic,1000.0,Ahmedabad
+Dr. Shubha Sinha,General Surgeon,18,"Ambawadi , Ahmedabad",Apollo Hospitals City Centre,1100.0,Ahmedabad
+Dr. Jayesh Pavra,Internal Medicine,31,"Bopal , Ahmedabad",The Health Care PolyClinic,1000.0,Ahmedabad
+Dr. V R Tindwani,General Physician,52,"Kubernagar , Ahmedabad",Dr V R Tindwani Clinic,600.0,Ahmedabad
+Dr. Vishnu Sharma,Rheumatologist,24,"Satellite , Ahmedabad",Arthritis Care Clinic,1600.0,Ahmedabad
+Dr. Shakuntala V Shah,General Physician,51,"Ambawadi , Ahmedabad",Apollo Hospitals City Centre,,Ahmedabad
+Dr. Manish Agrawal,General Physician,31,"Satellite , Ahmedabad",Medilink Hospital & Research Centre,1200.0,Ahmedabad
+Dr. Hitesh Chavda,General Physician,32,"Memnagar , Ahmedabad",Sterling Hospital,2000.0,Ahmedabad
+Dr. Kaushik Gajjar,General Surgeon,45,"Sabarmati , Ahmedabad",Parth Hospital,800.0,Ahmedabad
+Dr. Manish Joshi,General Physician,30,"Bhat , Ahmedabad",Apollo Hospital,700.0,Ahmedabad
+Dr. Priyanka Srivastava,General Physician,8,"Ambawadi , Ahmedabad",Apollo Hospitals City Centre,,Ahmedabad
+Dr. Agam J Gaargiya,Spine And Pain Specialist,17,"Satellite , Ahmedabad",Orchids ICU & Hospital,1200.0,Ahmedabad
+Dr. B K Kedia,General Physician,44,"Bhat , Ahmedabad",Apollo Hospital,800.0,Ahmedabad
+Dr. Bhaskar Thakkar,Pathologist,24,"Vastrapur , Ahmedabad",Life Care Pathology Laboratory,500.0,Ahmedabad
+Dr. Pooja Solanki,General Physician,15,"Bhat , Ahmedabad",Apollo Hospital,1000.0,Ahmedabad
+Dr. Anand Subramaniam Iyer,General Physician,26,"Bhat , Ahmedabad",Apollo Hospital,1000.0,Ahmedabad
+Dr. Bhavin Shah,General Physician,31,"Bodakdev , Ahmedabad",Sterling Hospital,3000.0,Ahmedabad
+Dr. Robin Bothra,General Surgeon,23,"Nirman Nagar , Jaipur",R N Multispeciality Hospital,400.0,Jaipur
+Dr. Mukesh Jain,General Physician,33,"Sector 7 , Jaipur",Tagore Hospital & Research Institute,500.0,Jaipur
+Dr. Raghav Johari,General Surgeon,27,"Sector 7 , Jaipur",Tagore Hospital & Research Institute,1100.0,Jaipur
+Dr. A. K . Mathur,General Surgeon,52,"Mansarovar , Jaipur",Priyush Neuro And Superspeciality Hospital,550.0,Jaipur
+Dr. Gurjar Sanjay Kumar,General Surgeon,15,"Heerapura , Jaipur",SRG Hospital,500.0,Jaipur
+Dr. Govind Sharan Sharma,General Physician,16,"Heerapura , Jaipur",SRG Hospital,500.0,Jaipur
+Dr. Vinod Kumar Atreya,General Surgeon,41,"Heerapura , Jaipur",SRG Hospital,500.0,Jaipur
+Dr. Surendra Agrawal,General Physician,26,"Jagatpura Road , Jaipur",Srishti Medicare Private Limited,500.0,Jaipur
+Dr. Amit Bengani,General Surgeon,23,"Mansarovar , Jaipur",Amar Medical And Research Centre,500.0,Jaipur
+Dr. Sandeep Jain,General Physician,27,"Sector 7 , Jaipur",Tagore Hospital & Research Institute,500.0,Jaipur
+Dr. Vijay Rathore,General Surgeon,32,"Sector 7 , Jaipur",Tagore Hospital & Research Institute,500.0,Jaipur
+Dr. Khemchand Bansal,General Surgeon,25,"Sector 7 , Jaipur",Tagore Hospital & Research Institute,500.0,Jaipur
+Dr. Sanjay Tambi,General Surgeon,28,"Jawahar Lal Nehru Marg , Jaipur",Soni Hospital,600.0,Jaipur
+Dr. Amit Sharan,General Surgeon,21,"Mansarovar , Jaipur",Amar Medical And Research Centre,700.0,Jaipur
+Dr. Goyal Shyam Behari,General Physician,38,"Mansarovar , Jaipur",Amar Medical And Research Centre,1000.0,Jaipur
+Dr. Bhim Chand Meena,General Surgeon,15,"Mansarovar , Jaipur",Amar Medical And Research Centre,500.0,Jaipur
+Dr. Vinod Sharma,General Physician,17,"Ganesh Vihar , Jaipur",HCG Cancer Centre,1200.0,Jaipur
+Dr. Anil Vaidya,General Surgeon,36,"Jagatpura Road , Jaipur",Srishti Medicare Private Limited,1000.0,Jaipur
+Dr. Venkatesh B S,General Surgeon,17,"Jagatpura Road , Jaipur",Srishti Medicare Private Limited,1000.0,Jaipur
+Dr. Rajendra Kumar,General Physician,45,"Mansarovar , Jaipur",Amar Medical And Research Centre,1000.0,Jaipur
+Dr. Ananth Padmanaban,Internal Medicine,45,"Jagatpura Road , Jaipur",Srishti Medicare Private Limited,1000.0,Jaipur
+Dr. Ajeet Singh,General Physician,27,"Mansarovar , Jaipur",Amar Medical And Research Centre,1000.0,Jaipur
+Dr. Aayushi Choudhary,General Physician,9,"Jaipur , Jaipur",Purple Heron Hospital,1200.0,Jaipur
+Dr. Suchrita Yadav,General Physician,14,"Mansarovar , Jaipur",Amar Medical And Research Centre,1000.0,Jaipur
+Dr. Manoj Kumar Saini,General Surgeon,13,"Jawahar Lal Nehru Marg , Jaipur",Soni Hospital,500.0,Jaipur
+Dr. Meena Mahendrakumar,General Surgeon,11,"Jagatpura Road , Jaipur",Srishti Medicare Private Limited,500.0,Jaipur
+Dr. Narendra,General Surgeon,12,"Mansarovar , Jaipur",Metro MAS Hospital,500.0,Jaipur
+Dr. Mumtaz Ali Khan,Anesthesiologist,33,"Ganesh Vihar , Jaipur",HCG Cancer Centre,1200.0,Jaipur
+Dr. Jitendra Kumar Pehalajani,General Physician,15,"Ganesh Vihar , Jaipur",HCG Cancer Centre,1200.0,Jaipur
+Dr. Vikas Mittal,General Physician,26,"Shyam Nagar , Jaipur",Unikare Hospital,600.0,Jaipur
+Dr. Sanjeev Kumar Sharma,General Physician,16,"Gopalpura , Jaipur",Dr Sanjeev's Pain Clinic,500.0,Jaipur
+Dr. Sunny Singhal,Geriatrician,12,"Durgapura , Jaipur",Singhal Clinic,100.0,Jaipur
+Dr. Aruna Jain,Pediatrician,20,"Vidhyadhar Nagar , Jaipur",Manipal Hospitals,500.0,Jaipur
+Dr. Devendra Gupta,General Physician,13,"Jhotwara , Jaipur",AARVI HOSPITAL,200.0,Jaipur
+Dr. Rishav Bansal,Geriatrician,13,"C Scheme , Jaipur",Bansal Health Clinic,650.0,Jaipur
+Dr. Prashant Garg,General Surgeon,14,"Vidhyadhar Nagar , Jaipur",Manipal Hospitals,400.0,Jaipur
+Dr. Peeyush Bhargava,General Physician,27,"Malviya Nagar , Jaipur",Girdhar Hospital And Research Centre,500.0,Jaipur
+Dr. Vipin Kumar Jain,General Physician,38,"Vidhyadhar Nagar , Jaipur",Manipal Hospitals,500.0,Jaipur
+Dr. Ashish Sharma,Urologist,18,"Pratap Nagar , Jaipur",Maharshi Urology and Super speciality hospital,600.0,Jaipur
+Dr. Ravikant Porwal,Internal Medicine,24,"Vidhyadhar Nagar , Jaipur",Manipal Hospitals,500.0,Jaipur
+Dr. Gaurav Kulwal,Neurosurgeon,21,"Vidhyadhar Nagar , Jaipur",Manipal Hospitals,500.0,Jaipur
+Dr. Neha Vashisth,General Physician,16,"Tonk Phatak , Jaipur",Femcare Clinic,300.0,Jaipur
+Dr. Dinesh Mehta,General Physician,4,"sanganer , Jaipur",Health Line Clinic,250.0,Jaipur
+Dr. Pradeep Bhati,General Physician,12,"Devi Nagar , Jaipur",DD CLINIC,5.0,Jaipur
+Dr. Shishir Hada,General Physician,17,"Jagatpura , Jaipur",New Jyoti Medical,300.0,Jaipur
+Dr. Jitesh,General Physician,6,"Dudu , Jaipur",Dr Jitesh Bhakar Clinic,150.0,Jaipur
+Dr. Rohit Kumar Sharma,General Physician,11,"Jagatpura , Jaipur",Sports Injury and Orthopedic Clinic,400.0,Jaipur
+Dr. Chandan Kedawat,Internal Medicine,33,"Vidhyadhar Nagar , Jaipur",Manipal Hospitals,500.0,Jaipur
+Dr. Rajveersingh Shekhawat,General Physician,18,"SEZ Road , Jaipur",Eva Preventive Health Clinic,300.0,Jaipur
+Dr. Suresh Kumar Bansal,Neurologist,55,"Industrial Area Phase I , Chandigarh",Eden Hospital,,Chandigarh
+Dr. Sanjeev Bhatia,Laparoscopic Surgeon,24,"Sector 21 , Chandigarh",Global Health Care Clinic,500.0,Chandigarh
+Dr. S.K. Chawla,General Physician,47,"Sector-15 , Chandigarh",Famicare Clinic,300.0,Chandigarh
+Dr. Sandeep Singh Chhatwal,Internal Medicine,28,"Sector 34 , Chandigarh",Omni Clinics And Diagnostics,1000.0,Chandigarh
+Dr. Sanjeev Kumar,General Practitioner,20,"Zirakpur , Chandigarh",Doctor Square Multispeciality Hospital,400.0,Chandigarh
+Dr. Ajit Gupta,General Physician,65,"Sector 20 , Chandigarh",Dr. Ajit Gupta Clinic,200.0,Chandigarh
+Dr. Puneet Mittal,General Physician,28,"Sector 44 , Chandigarh",Advance Medical Clinic,300.0,Chandigarh
+Dr. Alok Ahuja,General Surgeon,34,"Sector-18 , Chandigarh",Dr. Alok Ahuja's Clinic,300.0,Chandigarh
+Dr. Sonica Chugh,General Physician,33,"Sector 21 , Chandigarh","Gynae, Fertility & IVF Centre",1000.0,Chandigarh
+Dr. Damanjit,General Physician,50,"Sector-19 , Chandigarh",JP Medical Centre,700.0,Chandigarh
+Dr. Ashok Sharma,Laparoscopic Surgeon,49,"Sector-42 , Chandigarh",Laparoscopic and General Surgery Clinic,500.0,Chandigarh
+Dr. Anil Bhardwaj,General Surgeon,49,"Sector 44 , Chandigarh",Bhardwaj Clinic,300.0,Chandigarh
+Dr. Sanchit Kumar,Pulmonologist,17,"Sector 40 , Chandigarh",Chest & Sleep Care Clinic,600.0,Chandigarh
+Dr. Ravinder Chadha,General Physician,51,"Sector 22 , Chandigarh",Dr. Chadha's Pain Management & Physiotherapy Clinic,500.0,Chandigarh
+Dr. Prem Chandar,Radiologist,54,"Sector 35 , Chandigarh",Sai Guru Nanak Hospital,200.0,Chandigarh
+Dr. S. Mehta,General Physician,53,"Sector-19 , Chandigarh",Dr. Mehta's Medical & Dental Clinic,200.0,Chandigarh
+Dr. Kirti Prasad,General Physician,14,"Sector- 41 , Chandigarh",Vardaan Clinics,,Chandigarh
+Dr. Chhavi Aggarwal,General Physician,7,"Sector 34 , Chandigarh",Healing Hospital,500.0,Chandigarh
+Dr. Sudhir Kumar Gupta,General Physician,43,"Sector 47 , Chandigarh",Kaushal Hospital,250.0,Chandigarh
+Dr. Renu Tayal,Gynecologist/Obstetrician,35,"Sector 35 , Chandigarh",Abhilasha Hospital,500.0,Chandigarh
+Dr. Pawan Mittal,Urologist,23,"Zirakpur , Chandigarh",VCare Hospital,500.0,Chandigarh
+Dr. Anil Kumar,General Physician,45,"Sector-45 , Chandigarh",Divya Clinic,200.0,Chandigarh
+Dr. Harsh Kumar Aggarwal,General Surgeon,31,"Sector 40 , Chandigarh",Tarini's Hair Transplant Clinic,400.0,Chandigarh
+Dr. Gursimran Singh,General Surgeon,14,"Sector 8 , Chandigarh",Apollo Clinic,600.0,Chandigarh
+Dr. Ranjit Sharma,General Physician,44,"Sector 22 , Chandigarh",Maya Memorial Medicaid,250.0,Chandigarh
+Dr. Ravul Jindal,General Surgeon,32,"Sector 36 , Chandigarh",Indian Vascular Surgery Centre (IVS),2000.0,Chandigarh
+Dr. Geetika Garg,Internal Medicine,19,"Sector 27 , Chandigarh",Prime Healthcare,800.0,Chandigarh
+Dr. Vivek Singla,General Surgeon,21,"Sector-33 , Chandigarh",Landmark Hospital,500.0,Chandigarh
+Dr. Vijay Chopra,General Physician,48,"Sector 37 C , Chandigarh",Dr. Vijay Chopra Clinic,300.0,Chandigarh
+Dr. Sumit Singh Gautam,General Surgeon,12,"Sector 34 , Chandigarh",Healing Hospital,700.0,Chandigarh
+Dr. Ashish Chaudhry,General Physician,17,"Sector 30 , Chandigarh",Dr. Chaudhary's Clinic,300.0,Chandigarh
+Dr. Devinder Garg,General Physician,51,"Sector 40 , Chandigarh",Ell Dee Clinic,500.0,Chandigarh
+Dr. Loveleen Aggarwal,Neurologist,34,"Industrial Area Phase I , Chandigarh",Eden Hospital,800.0,Chandigarh
+Dr. Minna Jakhar,General Physician,46,"Naya Gaon , Chandigarh",Jakhar Hospital,150.0,Chandigarh
+Dr. Satender Pal Singh,General Physician,49,"Sector 8 , Chandigarh",Dr Satender Pal Singh's Practice,10.0,Chandigarh
+Dr. Himmat Kadian,General Physician,7,"Sector 30 , Chandigarh",Dr. Himmat Kadian's Clinic,500.0,Chandigarh
+Dr. Vikas Sandhir,General Physician,33,"Sector 34 , Chandigarh",Dr. Vikas Sandhir Clinic,500.0,Chandigarh
+Dr. Bouri Anil Kumar,General Physician,57,"Sector-45 , Chandigarh",Divya Clinic,,Chandigarh
+Dr. Manuj Chhabra,General Physician,30,"Sector 30 , Chandigarh",Chhabra Clinic,150.0,Chandigarh
+Dr. Harbant Singh,General Surgeon,41,"Sector 21 , Chandigarh",Dr Harbant's Surgical Clinic,700.0,Chandigarh
+Dr. Vikas Raghove,General Physician,19,"Manimajra , Chandigarh",Dr. Vikas Raghav's Clinic,500.0,Chandigarh
+Dr. Mausam Kapil,General Surgeon,16,"Sector-38 , Chandigarh",Santokh Hospital,1000.0,Chandigarh
+Dr. Abhinav Kuthiala,Ear-Nose-Throat (ENT) Specialist,13,"Mhc Manimajra , Chandigarh",Dr abhinav Kuthiala,300.0,Chandigarh
+Dr. Roger Edwards,General Surgeon,17,"Industrial Area Phase I , Chandigarh",Eden Hospital,600.0,Chandigarh
+Dr. Anand,General Physician,18,"Industrial Area Phase I , Chandigarh",Eden Hospital,600.0,Chandigarh
+Dr. Subash Anand,General Physician,49,"Sector 27 , Chandigarh",Dental Spa,300.0,Chandigarh
+Dr. K Babu,Pediatrician,18,"Sector 21 , Chandigarh",,500.0,Chandigarh
+Dr. Navjot Singh,General Physician,36,"Sector 65 , Chandigarh",Navjot Nursing Home,150.0,Chandigarh
+Dr. Ashish Dharmik,Pediatric Surgeon,26,"Sector 44 , Chandigarh",Dr Ashish Dharmik,600.0,Chandigarh
+Dr. Mukta Mukherjee Dhawan,General Physician,37,"Mhc Manimajra , Chandigarh",Mukta's Clinic,250.0,Chandigarh
